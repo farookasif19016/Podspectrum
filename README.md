@@ -1,29 +1,45 @@
-# PodSpectrum – Podcast Recommendation System
+# PodSpectrum – Personality-Aware Podcast Recommendation System
 
-This repository contains the code and core data for the PodSpectrum personality-aware podcast recommendation system, as described in the MSc dissertation.
+🚀 **Live Demo**: Try the app now → [PodSpectrum on Streamlit](https://podspectrum-rojjt322kus7rcgguxd6ka.streamlit.app/)
 
-1. Project structure
+This repository contains the code and core data for **PodSpectrum**, a personality-aware podcast recommendation system developed as part of an MSc dissertation.
 
-- `app/test_2.py` – Main Streamlit application.
-- `data/` – Metadata, embeddings and feedback CSV used by the app.
-- `images/` – Logo and other static images.
-- `notebooks/` – Jupyter notebook(s) used to prepare the embeddings.
-- `requirements.txt` – Python dependencies.
+The system recommends podcast episodes based on the listener's **OCEAN (Big Five) personality traits** combined with thematic content analysis using NLP (SBERT sentence embeddings, BERTopic topic modeling, cosine similarity, and trait-weighted scoring). It addresses the cold-start problem through content-based filtering and includes a user-friendly Streamlit interface.
 
-2. Setup
+## Key Features
+- Personality profiling via OCEAN sliders (Curiosity/Openness, Attention/Conscientiousness, Sociability/Extraversion, Agreeableness, Moodiness/Neuroticism)
+- Semantic + trait-hybrid recommendation engine
+- Genre and topic filtering
+- Feedback collection and playlist saving
+- Explainable trait-semantic agreement metric
 
+## Project Structure
+- `app/test_2.py` — Main Streamlit application
+- `data/` — Metadata, precomputed embeddings, feedback CSV
+- `images/` — Logo and static images
+- `notebooks/` — Jupyter notebooks used for embedding preparation
+- `requirements.txt` — Python dependencies
+
+## Setup & Running Locally
 1. (Optional) Create and activate a virtual environment.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. To run the app
+   ```bash
+   streamlit run app/test_2.py
+   
+## Screenshot
+<img width="1918" height="872" alt="Output_Interface" src="https://github.com/user-attachments/assets/9935bc53-13fe-444b-b133-f3dfd60bafe5" />
+                                                     
 
-2. Install dependencies: 
-       pip install -r requirements.txt
+## Tech Stack
 
-3. Running the app:
-       From the project root (`PodSpectrum`):
-       
-       python -m streamlit run "D:\UNIVERSITY OF GREENWICH\MSc Project\PodSpectrum\app\PodSpectrum_Engine.py"
+Python
+Streamlit
+Pandas, NumPy
+scikit-learn
+Sentence-Transformers (SBERT)
+BERTopic
 
-This will open the PodSpectrum interface in your browser.
-
-<img width="940" height="427" alt="image" src="https://github.com/user-attachments/assets/19f51967-dd61-4ecf-8dee-18baac54ae51" />
-
-
+Open to feedback, collaborations, and junior data science opportunities! 🚀
