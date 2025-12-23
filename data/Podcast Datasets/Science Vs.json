@@ -1,0 +1,442 @@
+[
+  {
+    "episode_id": "SCIENCEVS-001",
+    "title": "Science Vs: Organic Food - What’s the Real Difference?",
+    "release_date": "2015-10-14",
+    "summary": "Examines the science behind claims that organic food is healthier, tastier, or better for the environment. Separates real benefits from marketing myths.",
+    "series": "Season 1",
+    "length": "29 min",
+    "utterances": [
+      "Organic food costs more, but are the health benefits real?",
+      "Pesticide residues are far lower than most people think.",
+      "Taste is subjective—but does science back it up?"
+    ],
+    "transcript": "Host Wendy Zukerman brings in nutritional scientists and farmers to discuss the real evidence on organic vs. conventional produce, exploring environmental footprint and health data.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/organic-food",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Organic",
+      "Nutrition",
+      "Environment",
+      "Farming"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-002",
+    "title": "Science Vs: Fracking - Earthquake or Solution?",
+    "release_date": "2015-10-21",
+    "summary": "Dissects the controversy around fracking—its effects on earthquakes, groundwater, and the role it plays in energy policy.",
+    "series": "Season 1",
+    "length": "28 min",
+    "utterances": [
+      "Fracking is blamed for everything from earthquakes to pollution.",
+      "How risky is it really?",
+      "Can it ever be made safe for communities?"
+    ],
+    "transcript": "Geophysicists and environmental policy experts weigh in on seismic activity, new research, and whether fracking deserves its bad reputation.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/fracking",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Fracking",
+      "Earthquake",
+      "Energy",
+      "Policy"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-003",
+    "title": "Science Vs: Climate Change - How Do We Know?",
+    "release_date": "2015-10-28",
+    "summary": "Breaks down the scientific evidence proving climate change and reviews the most common denialist arguments.",
+    "series": "Season 1",
+    "length": "32 min",
+    "utterances": [
+      "Climate models are better than people think.",
+      "So what exactly is causing global warming?",
+      "Sea level data doesn’t lie."
+    ],
+    "transcript": "IPCC contributors and notable climatologists debunk denial myths, with a focus on ocean temperatures, weather patterns, and future projections.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/climate-change",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Climate",
+      "Denial",
+      "Evidence",
+      "Weather"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-004",
+    "title": "Science Vs: Vaccines - Do They Cause Autism?",
+    "release_date": "2015-11-04",
+    "summary": "Directly tackles the vaccine/autism myth by looking at major studies, medical fraud, and the real risks of vaccine hesitancy.",
+    "series": "Season 1",
+    "length": "31 min",
+    "utterances": [
+      "Dozens of studies have tested the link—what do they say?",
+      "Why did the myth gain traction, and who’s responsible?",
+      "Vaccination rates affect everyone, not just children."
+    ],
+    "transcript": "Guests include global health leaders and parents who discuss how misinformation took hold and how science eventually won out.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/vaccines",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Vaccines",
+      "Autism",
+      "Misinformation",
+      "Epidemiology"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-005",
+    "title": "Science Vs: Superfoods - Is Kale Really a Superhero?",
+    "release_date": "2015-11-11",
+    "summary": "Puts common superfoods—kale, quinoa, acai—under the magnifying glass. Are they really miracle foods, or just hype?",
+    "series": "Season 1",
+    "length": "27 min",
+    "utterances": [
+      "Is kale truly better than iceberg lettuce?",
+      "Superfoods appear in the news every year.",
+      "Nutrient density matters, but context is key."
+    ],
+    "transcript": "Science writers, nutritionists, and chefs discuss nutrient metrics, food fads, and the truth about what ‘super’ really means for your health.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/superfoods",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Superfoods",
+      "Diet",
+      "Kale",
+      "Nutrition"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-006",
+    "title": "Science Vs: Detox - Fact or Fantasy?",
+    "release_date": "2015-11-18",
+    "summary": "Detox diets and cleanses are everywhere, but do they actually work or is it all pseudoscience? Science Vs dives into the evidence behind popular detox trends.",
+    "series": "Season 1",
+    "length": "28 min",
+    "utterances": [
+      "Juice cleanses claim to remove 'toxins' from your body—can they?",
+      "The liver already has a built-in detox system.",
+      "Are there any cleanses with proven health benefits?"
+    ],
+    "transcript": "Studies on detox diets and supplements reveal that our organs are quite good at removing toxins on their own, making most commercial cleanses unnecessary at best.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/detox",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Detox",
+      "Health",
+      "Diet",
+      "Trends"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-007",
+    "title": "Science Vs: Paleo Diet - Caveman Craze",
+    "release_date": "2015-11-25",
+    "summary": "Paleo diets are all the rage, but are they really backed by archaeological data and evolutionary science? Experts weigh in on meat, grains, and human history.",
+    "series": "Season 1",
+    "length": "29 min",
+    "utterances": [
+      "What did ancient humans actually eat?",
+      "Modern paleo has little to do with real prehistory.",
+      "Human bodies are adaptable, but is this a healthy fad?"
+    ],
+    "transcript": "Anthropologists and nutritionists explore what true paleolithic diets looked like and how well modern health claims stack up.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/paleo-diet",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Paleo",
+      "Archaeology",
+      "Evolution",
+      "Diet"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-008",
+    "title": "Science Vs: GMOs - Danger or Dinner?",
+    "release_date": "2015-12-02",
+    "summary": "Genetically modified organisms spark public anxiety. Science Vs looks at the safety of GMOs and why they're so controversial.",
+    "series": "Season 1",
+    "length": "32 min",
+    "utterances": [
+      "GMOs are claimed to cause cancer, allergies, and more.",
+      "Independent science says something different.",
+      "How do they impact farming and the environment?"
+    ],
+    "transcript": "Leading life scientists explain rigorous evaluations for genetically modified crops and why so many fears are not supported by research.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/gmos",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "GMOs",
+      "Farming",
+      "Biotech",
+      "Environment"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-009",
+    "title": "Science Vs: Gluten - Should You Go Free?",
+    "release_date": "2015-12-09",
+    "summary": "Is gluten really as dangerous as the hype suggests? This episode explores celiac disease, gluten sensitivity, and the truth behind wheat panic.",
+    "series": "Season 1",
+    "length": "31 min",
+    "utterances": [
+      "Gluten-free diets exploded in popularity.",
+      "Only a tiny fraction truly have celiac disease.",
+      "Are there hidden benefits or risks for the rest of us?"
+    ],
+    "transcript": "Gastroenterologists clarify the seriousness of celiac vs. gluten sensitivity, and whether gluten-free is healthier for everyone.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/gluten",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Gluten",
+      "Celiac",
+      "Diet",
+      "Trends"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-010",
+    "title": "Science Vs: Salt - The Truth About Sodium",
+    "release_date": "2015-12-16",
+    "summary": "Are you eating too much salt? Is sodium the real villain in heart disease? Science Vs reviews studies and expert opinions on salt intake.",
+    "series": "Season 1",
+    "length": "28 min",
+    "utterances": [
+      "Salt is essential—but how much is too much?",
+      "Medical journals reach different conclusions.",
+      "Blood pressure and diet guidelines are constantly evolving."
+    ],
+    "transcript": "Nutrition researchers break down global salt studies and why recommendations differ, plus public health implications.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/sodium",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Salt",
+      "Sodium",
+      "Heart",
+      "Diet"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-011",
+    "title": "Science Vs: Meditation - Magic or Myth?",
+    "release_date": "2015-12-23",
+    "summary": "Meditation is prescribed as a fix for everything from stress to depression—does it work, and if so, for whom?",
+    "series": "Season 1",
+    "length": "29 min",
+    "utterances": [
+      "Meditation can change brain structure—true or oversold?",
+      "Benefits are real, but often modest.",
+      "Who should meditate, and who maybe shouldn't?"
+    ],
+    "transcript": "Psychologists and neuroscientists discuss the cognitive and emotional impact of meditation, separating hype from data.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/meditation",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Meditation",
+      "Mindfulness",
+      "Neuroscience",
+      "Psychology"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-012",
+    "title": "Science Vs: Juice Cleanses - Healthy or Hype?",
+    "release_date": "2016-01-06",
+    "summary": "Juice cleanses are a wellness trend, but do they help or harm your body? Science Vs interviews doctors and nutritionists.",
+    "series": "Season 2",
+    "length": "30 min",
+    "utterances": [
+      "Juicing is good for vitamins, but bad for sugar.",
+      "Cleanses may do more harm than good.",
+      "Your liver and kidneys are your real detox machines."
+    ],
+    "transcript": "Doctors debunk the myth that juice cleanses detoxify your system, and highlight risks like blood sugar spikes.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/juice-cleanses",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Juice",
+      "Cleanse",
+      "Wellness",
+      "Health"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-013",
+    "title": "Science Vs: Placebo - The Power of Belief",
+    "release_date": "2016-01-13",
+    "summary": "Explores the placebo effect—how powerful are sugar pills, and why does our brain respond?",
+    "series": "Season 2",
+    "length": "27 min",
+    "utterances": [
+      "Sugar pills work, but how and why?",
+      "Belief itself can trigger real brain chemical changes.",
+      "What limits the placebo effect?"
+    ],
+    "transcript": "Medical historians trace the rise of placebo-based treatments and new neuroscientific findings on expectation and response.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/placebo",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Placebo",
+      "Brain",
+      "Belief",
+      "Treatment"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-014",
+    "title": "Science Vs: Hypnosis - Hype or Help?",
+    "release_date": "2016-01-20",
+    "summary": "Is hypnosis real, or just a stage act? The science of altered states, therapy, and medical hypnosis for pain.",
+    "series": "Season 2",
+    "length": "29 min",
+    "utterances": [
+      "Most people can be hypnotized to some degree.",
+      "Medical hypnosis is effective for certain pain and anxiety.",
+      "It's not mind control, but suggestibility matters."
+    ],
+    "transcript": "Therapists reveal what works and what doesn't in clinical hypnosis, plus who is most susceptible and why.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/hypnosis",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Hypnosis",
+      "Pain",
+      "Suggestion",
+      "Therapy"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-015",
+    "title": "Science Vs: ESP - Can You Really Read Minds?",
+    "release_date": "2016-01-27",
+    "summary": "Science Vs examines the research on extrasensory perception, mind reading, and psychic powers.",
+    "series": "Season 2",
+    "length": "28 min",
+    "utterances": [
+      "Studies on ESP date back decades.",
+      "No one can prove true psychic ability.",
+      "Why do so many still believe?"
+    ],
+    "transcript": "Parapsychologists and skeptics debate the best data, and why psychic claims attract ongoing interest.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/esp",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "ESP",
+      "Psychic",
+      "Parapsychology",
+      "Belief"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-016",
+    "title": "Science Vs: Homeopathy - Healing or Hoax?",
+    "release_date": "2016-02-03",
+    "summary": "Homeopathy remains popular, but is there any science to support it? Examining the evidence beyond anecdotes.",
+    "series": "Season 2",
+    "length": "29 min",
+    "utterances": [
+      "Homeopathy uses extreme dilutions of ‘remedies’.",
+      "Is anything in there besides water?",
+      "Clinical trials show little beyond placebo."
+    ],
+    "transcript": "Pharmacologists and health regulators discuss regulation, case studies, and why homeopathy appeals to so many.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/homeopathy",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Homeopathy",
+      "Alternative",
+      "Regulation",
+      "Trials"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-017",
+    "title": "Science Vs: Supplements - Magic Pills?",
+    "release_date": "2016-02-10",
+    "summary": "Vitamins and dietary supplements are a billion-dollar industry, but do most people benefit?",
+    "series": "Season 2",
+    "length": "29 min",
+    "utterances": [
+      "Most supplements aren't needed except in deficiency.",
+      "Overuse can do more harm than good.",
+      "Regulation and quality vary widely."
+    ],
+    "transcript": "Doctors and nutrition experts discuss benefits for specific populations vs. hype and placebo in the general public.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/supplements",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Supplements",
+      "Vitamins",
+      "Diet",
+      "Industry"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-018",
+    "title": "Science Vs: Cold and Flu - Fact vs Fiction",
+    "release_date": "2016-02-17",
+    "summary": "Do vitamin C, zinc, or chicken soup really fight colds? Science Vs examines folk cures, viral spread, and what actually helps.",
+    "series": "Season 2",
+    "length": "27 min",
+    "utterances": [
+      "Most cold remedies are comfort, not cure.",
+      "Viruses mutate too fast for lasting immunity.",
+      "Prevention beats treatment every time."
+    ],
+    "transcript": "Epidemiologists break down cold and flu research, and the real prevention strategies (handwashing, sleep, vaccines) that actually work.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/cold-flu",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Cold",
+      "Flu",
+      "Virus",
+      "Immunity"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-019",
+    "title": "Science Vs: Mindfulness - Miracle or Fad?",
+    "release_date": "2016-02-24",
+    "summary": "Mindfulness meditation promises big health benefits—but do studies support the hype, and who actually benefits most?",
+    "series": "Season 2",
+    "length": "30 min",
+    "utterances": [
+      "Mindfulness helps stress but won’t cure all ills.",
+      "Not everyone is equally responsive.",
+      "Clinical evidence is still evolving."
+    ],
+    "transcript": "Behavioral therapists, neuroscientists, and critics discuss the value and limits of mindfulness practices in therapy.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/mindfulness",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Mindfulness",
+      "Mental Health",
+      "Evidence",
+      "Practice"
+    ]
+  },
+  {
+    "episode_id": "SCIENCEVS-020",
+    "title": "Science Vs: Energy Drinks - Boost or Bust?",
+    "release_date": "2016-03-02",
+    "summary": "Breaks down the science on caffeine, sugar, and supplement effects in popular energy drinks.",
+    "series": "Season 2",
+    "length": "30 min",
+    "utterances": [
+      "Energy drinks spike both caffeine and sugar intake.",
+      "High doses can be dangerous, especially for youth.",
+      "Is there any edge for athletes?"
+    ],
+    "transcript": "Toxicologists and sports doctors review ingredient lists, overdose risks, and lasting effects of energy drinks.",
+    "transcript_link": "https://gimletmedia.com/shows/science-vs/energy-drinks",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/science-vs/id1051557000",
+    "topics": [
+      "Energy Drinks",
+      "Caffeine",
+      "Sugar",
+      "Performance"
+    ]
+  }
+]

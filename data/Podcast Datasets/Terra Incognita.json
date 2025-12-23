@@ -1,0 +1,442 @@
+[
+  {
+    "episode_id": "TERRA-001",
+    "title": "Into the Amazon: A Biologist's Tale",
+    "release_date": "2019-01-10",
+    "summary": "Field biologist Dr. Emily Foster details the challenges and exhilaration of leading a months-long research expedition into the Amazon rainforest.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "The density and scale of the Amazon is overwhelming.",
+      "You never truly relax—every sound is a potential clue or warning.",
+      "Adventures in field biology demand resilience and curiosity."
+    ],
+    "transcript": "Emily narrates astonishing encounters with wildlife, storms, and disease, as well as how improving the local community's understanding of rainforest ecology altered the expedition's outcomes.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/emily-foster-amazon",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Amazon",
+      "Field Biology",
+      "Research",
+      "Ecology"
+    ]
+  },
+  {
+    "episode_id": "TERRA-002",
+    "title": "Surviving Antarctica: The Human Factor",
+    "release_date": "2019-01-17",
+    "summary": "Engineer and explorer Tom Bennett discusses survival and teamwork during a winter-over in Antarctica.",
+    "series": "Season 1",
+    "length": "56 min",
+    "utterances": [
+      "Antarctica strips away ego and routine.",
+      "Team dynamics determine who thrives or fails.",
+      "Lessons learned far south apply to every aspect of life."
+    ],
+    "transcript": "Tom describes adapting to darkness, extreme cold, and group living under duress. He explains the science behind successful Antarctic missions and how small mistakes can cascade into crisis.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/tom-bennett-antarctica",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Antarctica",
+      "Winter-Over",
+      "Teamwork",
+      "Survival"
+    ]
+  },
+  {
+    "episode_id": "TERRA-003",
+    "title": "Desert Winds: Crossing the Empty Quarter",
+    "release_date": "2019-01-24",
+    "summary": "Arabian explorer Ahmed Al Khouri recounts his crossing of the Rub' al Khali (Empty Quarter) desert by camel and 4x4.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "The desert teaches patience and planning.",
+      "Local guides are the heart of every successful expedition.",
+      "Sandstorms can change your destiny in minutes."
+    ],
+    "transcript": "Ahmed describes collaborating with nomads, preparing for periods of total isolation, and capturing a unique glimpse into fragile desert ecosystems.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/ahmed-alkhouri-empty-quarter",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Desert",
+      "Arabia",
+      "Expedition",
+      "Culture"
+    ]
+  },
+  {
+    "episode_id": "TERRA-004",
+    "title": "Diving Depths: Science at Sea",
+    "release_date": "2019-01-31",
+    "summary": "Marine biologist Zoe Mitchell explains deep-sea research, submersible dangers, and the thrill of discovering new species.",
+    "series": "Season 1",
+    "length": "63 min",
+    "utterances": [
+      "Deep-sea dives are the ultimate mix of adventure and research.",
+      "Pressure and cold challenge every machine and human.",
+      "Every discovery feels like entering an entirely new world."
+    ],
+    "transcript": "Zoe recounts hazardous expeditions, advances in submersible science, and the impact her work has on understanding the planet's last unexplored frontier.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/zoe-mitchell-deep-sea",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Deep Sea",
+      "Marine Biology",
+      "Research",
+      "Submersible"
+    ]
+  },
+  {
+    "episode_id": "TERRA-005",
+    "title": "Summiting the Andes: Altitude and Endurance",
+    "release_date": "2019-02-07",
+    "summary": "Climber and physician Dr. Miguel Rojas reflects on medical risks and beauty of high-altitude climbing in South America.",
+    "series": "Season 1",
+    "length": "64 min",
+    "utterances": [
+      "Altitude challenges your body in surprising ways.",
+      "Never underestimate the need for acclimatization.",
+      "Local knowledge is crucial at every turn."
+    ],
+    "transcript": "Miguel describes hypoxia, planning for medical emergencies, and the unique blend of adventure and science at the region's highest peaks.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/miguel-rojas-andes",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Andes",
+      "Climbing",
+      "Medicine",
+      "Altitude"
+    ]
+  },
+  {
+    "episode_id": "TERRA-006",
+    "title": "Walking Mongolia: Steppe Stories",
+    "release_date": "2019-02-14",
+    "summary": "Nomad specialist and anthropologist Dr. Yeskin explains Mongolian steppe expeditions, horses, and traditional culture.",
+    "series": "Season 1",
+    "length": "61 min",
+    "utterances": [
+      "The steppe demands flexibility and respect.",
+      "Traveling on horseback is a return to older rhythms.",
+      "Anthropology is about building trust wherever you travel."
+    ],
+    "transcript": "Dr. Yeskin shares stories of living with Mongolian shepherds, crisis moments from storms, and how anthropology shapes modern exploration.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/yeskin-mongolia",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Mongolia",
+      "Nomads",
+      "Anthropology",
+      "Steppe"
+    ]
+  },
+  {
+    "episode_id": "TERRA-007",
+    "title": "Canopy Science: Life Above the Jungle",
+    "release_date": "2019-02-21",
+    "summary": "Ecologist Dr. Priya Shah details the excitement and hazards of rainforest canopy research, from climbing gear to endangered species.",
+    "series": "Season 1",
+    "length": "62 min",
+    "utterances": [
+      "The rainforest canopy is another planet above the ground.",
+      "Getting there safely is half the challenge.",
+      "Endangered species seem to disappear between your fingers."
+    ],
+    "transcript": "Dr. Shah discusses changes in research methods, dangers from heights, and the vital discoveries made possible by canopy access.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/priya-shah-canopy",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Rainforest",
+      "Canopy",
+      "Climbing",
+      "Ecology"
+    ]
+  },
+  {
+    "episode_id": "TERRA-008",
+    "title": "Descent into Darkness: The World’s Deepest Caves",
+    "release_date": "2019-02-28",
+    "summary": "Geologist Samir Patel explores the geology, danger, and teamwork involved in modern deep cave expeditions.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Modern caving feels more like space exploration.",
+      "Geology is a clock that tells ancient stories.",
+      "Teamwork below ground is life or death."
+    ],
+    "transcript": "Samir describes cave mapping technology, the hazards of flooding and rockfalls, and why exploring deep caves can help answer planetary questions.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/samir-patel-caves",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Caving",
+      "Geology",
+      "Mapping",
+      "Teamwork"
+    ]
+  },
+  {
+    "episode_id": "TERRA-009",
+    "title": "Running the Rift: Volcanoes and Science",
+    "release_date": "2019-03-07",
+    "summary": "Geophysicist Dr. Lila Njiru explains what it’s like to run scientific fieldwork in active volcanic rift zones in East Africa.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "Volcanoes are as much about science as adventure.",
+      "Fieldwork can mean moving quickly—sometimes for your safety.",
+      "Every sample tells a story of Earth’s deep forces."
+    ],
+    "transcript": "Dr. Njiru discusses collaborating with local scientists, adapting to sudden eruptions, and collecting vital data for East Africa’s geoscience community.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/lila-njiru-rift",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Volcano",
+      "Fieldwork",
+      "Africa",
+      "Geophysics"
+    ]
+  },
+  {
+    "episode_id": "TERRA-010",
+    "title": "Nile River Expeditions: Kayaking History",
+    "release_date": "2019-03-14",
+    "summary": "Expedition kayaker Peter Harris shares stories from modern Nile descent expeditions—combining history, adventure, and risk.",
+    "series": "Season 1",
+    "length": "56 min",
+    "utterances": [
+      "The Nile changes minute by minute.",
+      "You need experience and luck to survive the rapids.",
+      "History lives everywhere by the river."
+    ],
+    "transcript": "Peter explains challenges from unpredictable wildlife, historic sites, and the stories all adventurers carry from Africa’s longest river.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/peter-harris-nile",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Nile",
+      "Kayak",
+      "Expedition",
+      "History"
+    ]
+  },
+  {
+    "episode_id": "TERRA-011",
+    "title": "Navigating the Sargasso",
+    "release_date": "2019-03-21",
+    "summary": "Marine navigator Laura Chen explores the mysterious Sargasso Sea and the special challenges of open-ocean navigation.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "The Sargasso is one of the world’s most unique marine environments.",
+      "Seaweed tangles and weather can leave you stranded for days.",
+      "Navigation at sea means trusting both tech and instinct."
+    ],
+    "transcript": "Laura shares stories of storms, lost equipment, and rescue planning at sea—and why the Sargasso is a vital scientific mystery",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/laura-chen-sargasso",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Sargasso",
+      "Navigation",
+      "Ocean",
+      "Science"
+    ]
+  },
+  {
+    "episode_id": "TERRA-012",
+    "title": "Boreal Winter: Survival on Ice",
+    "release_date": "2019-03-28",
+    "summary": "Winter guide Oskar Nystrom describes snowshoe expeditions, ice survival, and northern wildlife encounters.",
+    "series": "Season 1",
+    "length": "57 min",
+    "utterances": [
+      "Northern winds test every piece of gear—every day.",
+      "Reading ice is an art—ignore it at your peril.",
+      "Survival often depends on improvisation."
+    ],
+    "transcript": "Oskar explains cold injuries, staying safe in the dark, and how knowledge borrowed from the Sami indigenous people shapes boreal exploration.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/oskar-nystrom-boreal",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Boreal",
+      "Winter",
+      "Ice",
+      "Survival"
+    ]
+  },
+  {
+    "episode_id": "TERRA-013",
+    "title": "Crossing Borneo: River to Ridge",
+    "release_date": "2019-04-04",
+    "summary": "Jungle trekker Agus Salim guides us through Borneo’s rainforests, leeches, and indigenous knowledge.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "You have to respect jungle rhythms to make progress.",
+      "A leech bite is just an ordinary event here.",
+      "Indigenous wisdom saves lives more than any gadget."
+    ],
+    "transcript": "Agus retells stories of trekking along rivers, summiting remote ridges, and what authentic Bornean hospitality means for explorers and scientists.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/agus-salim-borneo",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Borneo",
+      "Jungle",
+      "Indigenous",
+      "Trekking"
+    ]
+  },
+  {
+    "episode_id": "TERRA-014",
+    "title": "Amazonia’s Lost Cities",
+    "release_date": "2019-04-11",
+    "summary": "Archaeologist Dr. Rafa Luna discusses new discoveries of ancient Amazonian civilizations using LIDAR technology.",
+    "series": "Season 1",
+    "length": "63 min",
+    "utterances": [
+      "LIDAR is rewriting Amazonian history.",
+      "Ancient cities rest beneath thick jungle.",
+      "Archaeological discovery is equal parts science and adventure."
+    ],
+    "transcript": "Dr. Luna explains the promise and hazards of laser scanning, fieldwork under canopy, and why Amazonia’s story is just beginning.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/rafa-luna-amazonas",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Amazon",
+      "Archaeology",
+      "LIDAR",
+      "Lost Cities"
+    ]
+  },
+  {
+    "episode_id": "TERRA-015",
+    "title": "Fjords and Glaciers: Kayaking Norway",
+    "release_date": "2019-04-18",
+    "summary": "Adventurer Astrid Lund shares her journey through Norway’s fjords and close calls with shifting glaciers.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Paddling a fjord is as much about weather as strength.",
+      "Glaciers are in constant motion—you have to listen.",
+      "Norway’s landscape humbles you every day."
+    ],
+    "transcript": "Astrid details Norway travel, climate awareness, and personal tales of self-reliance in the far north.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/astrid-lund-norway",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Norway",
+      "Kayak",
+      "Fjord",
+      "Glacier"
+    ]
+  },
+  {
+    "episode_id": "TERRA-016",
+    "title": "Into the Himalayas: Altitude Risk",
+    "release_date": "2019-04-25",
+    "summary": "Physician-climber Dr. Supreet Kaur examines Himalayan expeditions, Sherpa culture, and medical emergencies.",
+    "series": "Season 1",
+    "length": "62 min",
+    "utterances": [
+      "The Himalayas inspire and challenge in every breath.",
+      "Sherpa guides are the backbone of every expedition.",
+      "Altitude sickness can happen to anyone, anywhere."
+    ],
+    "transcript": "Dr. Kaur covers the necessary humility for high-altitude work, historic climbs, and risky evacuations.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/supreet-kaur-himalayas",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Himalayas",
+      "Sherpa",
+      "Altitude",
+      "Medicine"
+    ]
+  },
+  {
+    "episode_id": "TERRA-017",
+    "title": "Tracking Wolves: Arctic Science",
+    "release_date": "2019-05-02",
+    "summary": "Wildlife biologist Erik Salo relays the challenges and revelations of tracking wolf packs across the Arctic tundra.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Wolf tracks tell a story of invisible survival.",
+      "The arctic changes faster than you think.",
+      "Science in wild places still comes down to patience."
+    ],
+    "transcript": "Erik’s research and survival stories highlight resilience in researching elusive wildlife in the world’s coldest environments.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/erik-salo-wolves",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Arctic",
+      "Wolves",
+      "Wildlife",
+      "Research"
+    ]
+  },
+  {
+    "episode_id": "TERRA-018",
+    "title": "Forest Fire: Expedition to Recovery",
+    "release_date": "2019-05-09",
+    "summary": "Fire scientist Helen Grant joins a team to study post-fire recovery in North American forests.",
+    "series": "Season 1",
+    "length": "57 min",
+    "utterances": [
+      "Forest recovery begins even before the flames are out.",
+      "Fieldwork after fire is unpredictable and vital.",
+      "Nature’s resilience isn’t always obvious at first."
+    ],
+    "transcript": "Helen explores teamwork, risk, and ecological surprises found during post-fire surveys and the importance of understanding disturbance recovery.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/helen-grant-fire",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Fire",
+      "Forest",
+      "Recovery",
+      "Fieldwork"
+    ]
+  },
+  {
+    "episode_id": "TERRA-019",
+    "title": "Patagonian Winds: Gaucho Expeditions",
+    "release_date": "2019-05-16",
+    "summary": "Guide and equestrian Lucia Torres takes listeners horseback trekking across the stormy steppes of Patagonia.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Patagonia’s weather humbles even the seasoned.",
+      "Gaucho skills aren’t just riding—they’re about survival.",
+      "Horses read the weather better than I do."
+    ],
+    "transcript": "Lucia highlights horses, food, and friendships on Patagonian journeys where tradition and landscape shape the adventure.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/lucia-torres-patagonia",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Patagonia",
+      "Gaucho",
+      "Horseback",
+      "Expedition"
+    ]
+  },
+  {
+    "episode_id": "TERRA-020",
+    "title": "The Sound of Silence: Solo in Greenland",
+    "release_date": "2019-05-23",
+    "summary": "Explorer and sound artist Anne-Mari Mathiesen details the science and solitude of a solo crossing followed by weeks spent recording arctic silence.",
+    "series": "Season 1",
+    "length": "52 min",
+    "utterances": [
+      "You hear your heartbeat more in Greenland than words.",
+      "Solitude and science can be either bliss or heartbreak.",
+      "Every sound means something different in the cold."
+    ],
+    "transcript": "Anne-Mari narrates camping in silence, capturing acoustic data, and how sound shapes her memory and science of Greenland.",
+    "transcript_link": "https://terraincognita-podcast.com/episodes/anne-mari-greenland",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/terra-incognita-the-adventure-podcast/id1469448995",
+    "topics": [
+      "Greenland",
+      "Silence",
+      "Solo",
+      "Field Recording"
+    ]
+  }
+]

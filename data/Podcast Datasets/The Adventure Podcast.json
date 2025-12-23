@@ -1,0 +1,662 @@
+[
+  {
+    "episode_id": "ADVENTURE-001",
+    "title": "Climbing Everest: Kenton Cool",
+    "release_date": "2018-01-15",
+    "summary": "Kenton Cool, record-holding Everest climber, discusses the realities of high-altitude adventure, the risks, and his personal drive to push boundaries.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Kenton Cool knows Everest better than almost anyone alive.",
+      "Reaching the summit changed how I viewed challenge and risk.",
+      "Preparation and mindset are as vital as physical fitness."
+    ],
+    "transcript": "In this episode, Kenton shares his experiences on Everest, including what it takes to prepare mentally and physically for such a feat. He discusses the highs and lows of guiding expeditions, and how teamwork and humility are keys to survival.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/kenton-cool",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Mountaineering",
+      "Everest",
+      "Risk",
+      "Teamwork"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-002",
+    "title": "Polar Exploration: Ben Saunders",
+    "release_date": "2018-01-22",
+    "summary": "Ben Saunders shares stories of solo polar expeditions—facing severe cold, isolation, and mental challenges while crossing Antarctica and the Arctic.",
+    "series": "Season 1",
+    "length": "63 min",
+    "utterances": [
+      "Solitude in Antarctica is like nowhere else on Earth.",
+      "You learn more about yourself when you’re absolutely alone.",
+      "Decision-making is life or death in polar environments."
+    ],
+    "transcript": "Ben talks about the mental shift required for extreme solo adventures, managing fear and uncertainty, and the logistics involved in unsupported polar travel. His stories highlight human resilience and the thin line between adventure and danger.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/ben-saunders",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Polar",
+      "Solo",
+      "Resilience",
+      "Antarctica"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-003",
+    "title": "Kayaking the Amazon: Pip Stewart",
+    "release_date": "2018-01-29",
+    "summary": "Pip Stewart recounts her record-setting journey kayaking the length of the Amazon river, battling nature, illness, and fear along the way.",
+    "series": "Season 1",
+    "length": "56 min",
+    "utterances": [
+      "Kayaking the Amazon meant facing everything from rapids to venomous wildlife.",
+      "At one point, I wasn’t sure I'd survive.",
+      "Adventure always has a cost, but the rewards are immense."
+    ],
+    "transcript": "Pip shares vivid details about river hazards, group dynamics, and contracting tropical disease during the expedition. Her enthusiasm for adventure shines throughout, and her perspective on overcoming setbacks inspires listeners.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/pip-stewart",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Amazon",
+      "Kayak",
+      "Survival",
+      "Women"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-004",
+    "title": "Endurance Running: Jasmin Paris",
+    "release_date": "2018-02-05",
+    "summary": "Jasmin Paris details the physical and mental demands of ultramarathons, including her record-setting run at the Spine Race while also being a new mother.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Endurance running is mostly a mental challenge.",
+      "Being a mother adds a new perspective to pushing limits.",
+      "Breaking the Spine Race record took every ounce of belief."
+    ],
+    "transcript": "Jasmin explains sleep deprivation, nutrition, and the battle with self-doubt that comes with ultra-endurance. Her advice is grounded in lived experience and encouragement for others.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/jasmin-paris",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Ultramarathon",
+      "Women",
+      "Endurance",
+      "Spine Race"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-005",
+    "title": "Ocean Rowing: Roz Savage",
+    "release_date": "2018-02-12",
+    "summary": "Roz Savage, solo ocean rower, reveals what it’s like to spend months alone on the world’s oceans, facing storms, equipment failure, and isolation.",
+    "series": "Season 1",
+    "length": "61 min",
+    "utterances": [
+      "The ocean teaches you humility every day.",
+      "Equipment failure was just part of the challenge.",
+      "Solo adventure means relying entirely on yourself."
+    ],
+    "transcript": "Roz describes her motivations for ocean rowing, the daily routines, and how she copes with loneliness and storms. She encourages anyone to pursue adventurous dreams, regardless of age or background.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/roz-savage",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Ocean",
+      "Solo",
+      "Rowing",
+      "Inspiration"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-006",
+    "title": "Arctic Survival: Alex Hibbert",
+    "release_date": "2018-02-19",
+    "summary": "Alex Hibbert describes the intricacies of surviving Arctic expeditions, from extreme cold and nutrition to navigation and group psychology.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "Survival in the Arctic is a chess match against nature.",
+      "Nutrition and mental fortitude are equally important.",
+      "Leadership skills often separate good teams from great ones."
+    ],
+    "transcript": "Alex shares his experiences with frostbite, supply planning, and moments of near disaster. His pragmatic approach to adventure helps debunk romantic myths about polar travel.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/alex-hibbert",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Arctic",
+      "Survival",
+      "Navigation",
+      "Expedition"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-007",
+    "title": "Sahara Crossing: Alice Morrison",
+    "release_date": "2018-02-26",
+    "summary": "Alice Morrison, explorer and broadcaster, relates crossing the Moroccan Sahara on foot, dealing with immense heat and isolation.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Crossing sand dunes felt like moving on another planet.",
+      "You rely on local guides for wisdom and protection.",
+      "Sahara heat shapes every part of the journey."
+    ],
+    "transcript": "Alice recounts how ancient trails and nomadic traditions helped her survive. Stories of exhaustion, inspiration, and local hospitality highlight the value of teamwork in extreme desert expeditions.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/alice-morrison",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Sahara",
+      "Desert",
+      "Morocco",
+      "Women"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-008",
+    "title": "Big Mountain Skiing: Mike Douglas",
+    "release_date": "2018-03-05",
+    "summary": "Mike Douglas discusses the techniques, risks, and culture of big mountain skiing, sharing stories of avalanches and pushing the edge.",
+    "series": "Season 1",
+    "length": "62 min",
+    "utterances": [
+      "The mountain is always the real boss.",
+      "Avalanche danger is always present, no matter your experience.",
+      "Skill and caution are the best gear you have."
+    ],
+    "transcript": "Mike’s stories of near misses and breathless ski descents offer insight into why adventure is sometimes about knowing when not to take the risk.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/mike-douglas",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Skiing",
+      "Avalanche",
+      "Risk",
+      "Mountains"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-009",
+    "title": "Jungle Medicine: Dr. Sean Hudson",
+    "release_date": "2018-03-12",
+    "summary": "Dr. Sean Hudson explores wilderness medicine, jungle survival, and what adventure racing teams need to know to treat injuries and illness far from help.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Jungle medicine means adapting every skill for unpredictable environments.",
+      "Contingency planning is key to survival.",
+      "The difference between life and death can be tiny."
+    ],
+    "transcript": "Sean’s expertise covers tropical diseases, emergency improvisation, and making tough calls in remote locations. His advice is used by the world’s most elite expedition teams.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/sean-hudson",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Medicine",
+      "Jungle",
+      "Survival",
+      "Racing"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-010",
+    "title": "Paragliding Across the Alps: Antoine Girard",
+    "release_date": "2018-03-19",
+    "summary": "French paraglider Antoine Girard describes crossing the Alps and Himalayas by air, surviving storms and record-setting distances.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "Paragliding brings adventure to new heights—literally.",
+      "The weather can change your plan in seconds.",
+      "Flying among mountains is both peaceful and terrifying."
+    ],
+    "transcript": "Antoine reveals what it’s like to navigate thermals, survive freezing temperatures, and stay aloft for hours at a time, setting new records and redefining adventure.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/antoine-girard",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Paragliding",
+      "Alps",
+      "Flight",
+      "Mountains"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-011",
+    "title": "Diving to the Titanic: Rory Golden",
+    "release_date": "2018-03-26",
+    "summary": "Rory Golden discusses submersible exploration, diving to the Titanic wreck, and the risks behind underwater adventure.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Seeing Titanic firsthand is humbling and haunting.",
+      "Prepping for extreme depth dives means planning for every possible failure.",
+      "The ocean’s history is vast and mysterious."
+    ],
+    "transcript": "Rory describes the technical challenge, emotional impact, and logistics of descending to the Titanic with modern submersibles. He emphasizes lessons in teamwork and respect for those lost at sea.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/rory-golden",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Titanic",
+      "Diving",
+      "Underwater",
+      "History"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-012",
+    "title": "Summiting K2: Vanessa O'Brien",
+    "release_date": "2018-04-02",
+    "summary": "Vanessa O’Brien shares how she became one of the few women to summit K2, the world’s second-highest and notoriously dangerous peak.",
+    "series": "Season 1",
+    "length": "57 min",
+    "utterances": [
+      "K2 is the toughest mountain I’ve ever faced.",
+      "There’s no margin for error.",
+      "Summiting as a team is the only way."
+    ],
+    "transcript": "Vanessa’s story illustrates perseverance and vulnerability, with deep insight into team dynamics, preparation, and the realities of climbing K2.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/vanessa-obrien",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "K2",
+      "Mountaineering",
+      "Women",
+      "Extreme"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-013",
+    "title": "Walking the Nile: Levison Wood",
+    "release_date": "2018-04-09",
+    "summary": "Explorer Levison Wood recounts his journey walking the entire length of the Nile, facing wildlife, politics, and cultural diversity.",
+    "series": "Season 1",
+    "length": "56 min",
+    "utterances": [
+      "Walking alongside the Nile showed me Africa’s complexity.",
+      "The journey was tough physically and mentally.",
+      "Meeting local communities changed my perspective."
+    ],
+    "transcript": "Levison shares stories of resilience in remote regions, facing armed conflict, illness, and exhaustion, but also highlights positive encounters and the human aspect of adventure.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/levison-wood",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Nile",
+      "Africa",
+      "Treks",
+      "Culture"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-014",
+    "title": "Caving: Hazel Barton",
+    "release_date": "2018-04-16",
+    "summary": "Hazel Barton, microbiologist and cave explorer, discusses adventure under the earth, cave science, and what drives people into the darkness.",
+    "series": "Season 1",
+    "length": "54 min",
+    "utterances": [
+      "Caving is about curiosity and facing fear.",
+      "Studying cave life uncovers extreme resilience.",
+      "Adventures underground challenge every assumption."
+    ],
+    "transcript": "Hazel explains science, exploration, and survival underground, from flooded tunnels to entire cave systems. She draws parallels between the natural world’s resilience and human endurance.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/hazel-barton",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Caving",
+      "Science",
+      "Underground",
+      "Biology"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-015",
+    "title": "Cycling the World: Mark Beaumont",
+    "release_date": "2018-04-23",
+    "summary": "Mark Beaumont describes breaking the record for circumnavigating the world by bicycle, including endurance, logistics, and the psychology of solo travel.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "I averaged over 16 hours of riding each day for 180 days.",
+      "Planning every detail is essential.",
+      "Physical challenge means nothing without mental strength."
+    ],
+    "transcript": "Mark highlights the multi-year preparation for his round-the-world attempt, the mental lows during unrelenting travel, and how adventure pushes beyond boundaries.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/mark-beaumont",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Cycling",
+      "World Record",
+      "Endurance",
+      "Solo"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-016",
+    "title": "Adventure Filmmaking: Alastair Humphreys",
+    "release_date": "2018-04-30",
+    "summary": "Alastair Humphreys covers filming adventure documentaries from the wild, storytelling, and sharing the spirit of exploration.",
+    "series": "Season 1",
+    "length": "55 min",
+    "utterances": [
+      "Adventure is about learning through movement.",
+      "Filmmaking in remote areas means adaptation and improvisation.",
+      "Telling real stories from the field requires trust."
+    ],
+    "transcript": "Alastair explains how to capture human stories in harsh environments, facing both mechanical and emotional challenges, and the importance of curiosity in adventure.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/alastair-humphreys",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Filmmaking",
+      "Exploration",
+      "Stories",
+      "Remote"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-017",
+    "title": "Desert Survival: Megan Hine",
+    "release_date": "2018-05-07",
+    "summary": "Megan Hine, survival specialist, reveals lessons in leadership, adaptation, and tenacity from the world’s most inhospitable places.",
+    "series": "Season 1",
+    "length": "56 min",
+    "utterances": [
+      "Desert survival starts with hydration and shade.",
+      "Human adaptability is remarkable in tough times.",
+      "Leadership means making hard choices for the group."
+    ],
+    "transcript": "Megan shares insights from TV adventure production and first-hand experience in extreme environments—how to build resilience and the necessity of humility.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/megan-hine",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Desert",
+      "Survival",
+      "Women",
+      "Leadership"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-018",
+    "title": "Crossing Greenland: Eric Larsen",
+    "release_date": "2018-05-14",
+    "summary": "Eric Larsen shares his Greenland expedition stories, cold weather expedition planning, and environmental advocacy.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Crossing Greenland means learning to love the cold.",
+      "Environmental change is visible on every trip.",
+      "Advocacy starts with seeing the impact of adventure."
+    ],
+    "transcript": "Eric details logistics, risk assessment, and the role adventure plays in raising awareness of climate impacts.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/eric-larsen",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Greenland",
+      "Climate",
+      "Expedition",
+      "Cold"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-019",
+    "title": "Ultra-Endurance: Damian Hall",
+    "release_date": "2018-05-21",
+    "summary": "Damian Hall explores the limits of body and mind in ultra-running, including iconic events like the Spine Race and UTMB.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "Endurance is not about perfection, but about persistence.",
+      "Self-doubt is the only real enemy.",
+      "Community makes every journey richer."
+    ],
+    "transcript": "Damian recounts the physical and psychological extremes of preparing for and running multi-day races, including environmental and inner motivators.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/damian-hall",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Endurance",
+      "Running",
+      "Ultra",
+      "UTMB"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-020",
+    "title": "Surviving Monsoons: Ash Dykes",
+    "release_date": "2018-05-28",
+    "summary": "Ash Dykes recounts walking across Mongolia and Madagascar, including his challenge surviving monsoons and hostile terrain.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Mongolia’s isolation and Madagascar’s wildness are incredible.",
+      "Surviving monsoons tested every skill I had.",
+      "Being alone amplifies every emotion."
+    ],
+    "transcript": "Ash walks listeners through his crossing expeditions and how he overcame environment, loneliness, and the need to adapt—focusing on how adventurous spirit prevails.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/ash-dykes",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Mongolia",
+      "Madagascar",
+      "Survival",
+      "Monsoon"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-021",
+    "title": "Sailing the Atlantic: Conrad Humphreys",
+    "release_date": "2018-06-04",
+    "summary": "Conrad Humphreys recounts his record-breaking solo Atlantic crossings, storms, and the psychology of isolation at sea.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Solo ocean sailing is deeply humbling.",
+      "Storms can teach you more than success ever will.",
+      "Staying positive is essential when you're alone for weeks."
+    ],
+    "transcript": "Conrad explains the trials and joys of solo sailing, from navigation technology to mental survival and learning to thrive in isolation.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/conrad-humphreys",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Sailing",
+      "Atlantic",
+      "Solo",
+      "Isolation"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-022",
+    "title": "Climbing El Capitan: Pete Whittaker",
+    "release_date": "2018-06-11",
+    "summary": "Pete Whittaker dives into the world of solo rope climbing, recounting his non-stop El Capitan ascent and preparation for the challenge.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "El Capitan tests everything you know about climbing.",
+      "Solo pushes you beyond your limits.",
+      "Attention to detail can mean life or death."
+    ],
+    "transcript": "Pete describes the intricacies of big wall solo climbing, preparation, and how he managed to live on El Capitan for days at a time to break records.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/pete-whittaker",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Climbing",
+      "Solo",
+      "El Capitan",
+      "Big Wall"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-023",
+    "title": "Antarctic Science: Felicity Aston",
+    "release_date": "2018-06-18",
+    "summary": "Felicity Aston, polar scientist and explorer, discusses solo Antarctic crossing and the intersection of research and survival.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Crossing Antarctica alone is more psychological than physical.",
+      "Women belong in every field of science and adventure.",
+      "New discoveries are waiting beneath the ice."
+    ],
+    "transcript": "Felicity shares her solo Antarctic ski crossing, the challenges she faced, and the science conducted along her route.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/felicity-aston",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Antarctica",
+      "Science",
+      "Solo",
+      "Women"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-024",
+    "title": "Mountain Rescue: Tim Howell",
+    "release_date": "2018-06-25",
+    "summary": "Tim Howell, extreme adventurist and rescue specialist, explores BASE jumping, technical rescue, and risk management in the mountains.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "BASE jumping requires a unique approach to risk.",
+      "Mountain rescue means trusting your team absolutely.",
+      "Technical skills save lives in extreme conditions."
+    ],
+    "transcript": "Tim’s career blends calculated risk with leadership in technical rescue teams, showing how training, expertise, and courage converge on real missions.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/tim-howell",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "BASE Jumping",
+      "Rescue",
+      "Mountains",
+      "Teamwork"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-025",
+    "title": "Biking Across America: Jenny Tough",
+    "release_date": "2018-07-02",
+    "summary": "Jenny Tough recounts her solo bike trip across North America, battling weather, terrain, and isolation.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Solo bikepacking means facing yourself as much as the landscape.",
+      "American storms and mountains tested every limit.",
+      "Adventure changes you from the inside out."
+    ],
+    "transcript": "From preparation through to the last mile, Jenny details the ups and downs of cycling alone across a continent, including encounters with wildlife and the limits of endurance.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/jenny-tough",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Biking",
+      "Solo",
+      "America",
+      "Women"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-026",
+    "title": "Canoeing the Yukon: Adam Shoalts",
+    "release_date": "2018-07-09",
+    "summary": "Explorer Adam Shoalts recounts canoeing the wild Yukon River, facing rapids, bears, and the power of solitude.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "The Yukon teaches respect for nature's power.",
+      "Bears are never just a background detail.",
+      "Solo canoeing requires quick decisions and self-confidence."
+    ],
+    "transcript": "Adam’s story reveals the challenges and wonder of traversing one of North America’s mightiest rivers alone, highlighting logistics, danger, and awe.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/adam-shoalts",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Canoeing",
+      "Yukon",
+      "Solo",
+      "Wildlife"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-027",
+    "title": "Lost at Sea: Sarah Outen",
+    "release_date": "2018-07-16",
+    "summary": "Sarah Outen shares survival lessons from her round-the-world journey by bike, kayak, and rowing, including dramatic rescue at sea.",
+    "series": "Season 1",
+    "length": "62 min",
+    "utterances": [
+      "Surviving a storm in the North Pacific was the hardest thing I’ve done.",
+      "Adventure is about knowing when to ask for help.",
+      "Being lost at sea rewrites your idea of fear."
+    ],
+    "transcript": "Sarah recounts dramatic moments from her human-powered world tour, including rescue at sea, battling massive swells, and overcoming self-doubt.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/sarah-outen",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Ocean",
+      "Rescue",
+      "Rowing",
+      "Solo"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-028",
+    "title": "Climbing Kilimanjaro: Simon Mtuy",
+    "release_date": "2018-07-23",
+    "summary": "Simon Mtuy, Tanzania’s top mountain guide, reveals what it takes to summit Kilimanjaro and why adventure matters.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "Kilimanjaro is a mountain for everyone—but never easy.",
+      "Guiding is about encouragement, safety, and sharing experience.",
+      "Respect for local culture makes every climb better."
+    ],
+    "transcript": "Simon shares tips for acclimatization, cultural context, and his personal adventures guiding thousands to the top of Kilimanjaro.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/simon-mtuy",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Kilimanjaro",
+      "Guiding",
+      "Culture",
+      "Africa"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-029",
+    "title": "Caving Expeditions: Andy Eavis",
+    "release_date": "2018-07-30",
+    "summary": "Andy Eavis explores major international caving expeditions and the science, technology, and teamwork behind underground discovery.",
+    "series": "Season 1",
+    "length": "56 min",
+    "utterances": [
+      "Underground exploration is science, sport, and puzzle-solving.",
+      "New technology is revolutionizing caving.",
+      "Teamwork means everything in dangerous passages."
+    ],
+    "transcript": "Andy details exploration in the world’s greatest caves, mapping technology, and risk management in underground expedition settings.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/andy-eavis",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Caving",
+      "Technology",
+      "International",
+      "Teamwork"
+    ]
+  },
+  {
+    "episode_id": "ADVENTURE-030",
+    "title": "Lessons from Adventure: Pip Stewart",
+    "release_date": "2018-08-06",
+    "summary": "Pip Stewart returns to share life-changing lessons learned from venturing into remote jungles, rivers, and deserts.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Adventure taught me strength in adversity.",
+      "Every expedition has a lesson for life.",
+      "Surviving remote wilds reframes everyday stress."
+    ],
+    "transcript": "Pip reflects on her journeys’ most powerful lessons about resilience, teamwork, and the importance of sharing adventure stories.",
+    "transcript_link": "https://theadventurepodcast.com/episodes/pip-stewart-2",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/the-adventure-podcast/id1446862825",
+    "topics": [
+      "Adventure",
+      "Lessons",
+      "Resilience",
+      "Reflection"
+    ]
+  }
+]

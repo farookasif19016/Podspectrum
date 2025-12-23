@@ -1,0 +1,692 @@
+[
+  {
+    "podcast_id": "TMA",
+    "title": "The Magnus Archives",
+    "creators": [
+      "Jonathan Sims"
+    ],
+    "provider": "Rusty Quill",
+    "category": "Horror Fiction",
+    "language": "English",
+    "country": "United Kingdom",
+    "years_active": "2016-2021",
+    "description": "Make your statement, face your fear. The Magnus Archives is a weekly horror fiction audiodrama podcast examining what lurks in the archives of the Magnus Institute, an organisation dedicated to researching the esoteric and the weird. Join Jonathan Sims as he explores the archive, but be warned, as he looks into its depths something starts to look back.",
+    "website": "https://rustyquill.com/show/the-magnus-archives/",
+    "episodes": [
+      {
+        "episode_id": "TMA-001",
+        "title": "Angler Fish",
+        "release_date": "2016-03-24",
+        "summary": "Statement of Nathan Watts regarding an encounter on Old Fishmarket Close, Edinburgh. A man is approached by a stranger with an unnaturally long face asking for directions, leading to a terrifying pursuit through the streets.",
+        "series": "Season 1",
+        "length": "25 min",
+        "utterances": [
+          "Statement of Nathan Watts, regarding an encounter on Old Fishmarket Close, Edinburgh.",
+          "His face was far too long. The proportions were all wrong.",
+          "I looked back and saw him following me, that wrong face stretched into what might have been a smile."
+        ],
+        "transcript": "Statement of Nathan Watts, regarding an encounter on Old Fishmarket Close, Edinburgh. Original statement given December 17th, 2007. Audio recording by Jonathan Sims, Head Archivist of the Magnus Institute, London. Statement begins. I moved to Edinburgh to get away from London. Too many people, too much crime, just needed somewhere quieter. Ended up on Old Fishmarket Close one evening, coming back from a pub. That's when I saw him. His face was far too long. The proportions were all wrong. He asked me for directions with that horrible stretched smile. I started walking faster. I could hear his footsteps behind me, always the same distance away, no matter how fast I ran.",
+        "transcript_link": "https://snarp.github.io/magnus_archives_transcripts/episode/001.html",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Stranger",
+          "Urban Horror",
+          "Edinburgh",
+          "Predatory Entity"
+        ]
+      },
+      {
+        "episode_id": "TMA-002",
+        "title": "Do Not Open",
+        "release_date": "2016-03-25",
+        "summary": "Statement of Joshua Gillespie regarding his time in the possession of an apparently empty wooden casket. The casket exerts an unnatural pull on those who encounter it, with disturbing scratching sounds coming from within.",
+        "series": "Season 1",
+        "length": "26 min",
+        "utterances": [
+          "It was just sitting there in the storage unit. A plain wooden casket with 'Do Not Open' carved into the lid.",
+          "At night I could hear scratching from inside. But when I opened it... nothing.",
+          "The thing is, I knew that if I opened it properly, something would come out. Something that had been waiting."
+        ],
+        "transcript": "Statement of Joshua Gillespie, regarding his time in the possession of an apparently empty wooden casket. Original statement given April 23rd, 2007. Audio recording by Jonathan Sims, Head Archivist of the Magnus Institute. Statement begins. I bought it at an estate sale. Plain wooden coffin, really. Had 'Do Not Open' carved right into the lid. Should have been a warning, but I'm an idiot. Brought it home. That first night, I heard scratching. Soft at first, then louder. Coming from inside the casket. But every time I opened it - nothing inside. Just empty space. The scratching would stop the moment the lid came up.",
+        "transcript_link": "https://snarp.github.io/magnus_archives_transcripts/episode/002.html",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Buried",
+          "Claustrophobia",
+          "Cursed Object",
+          "Compulsion"
+        ]
+      },
+      {
+        "episode_id": "TMA-003",
+        "title": "Across the Street",
+        "release_date": "2016-03-27",
+        "summary": "Statement of Amy Patel, regarding the alleged disappearance of her acquaintance Graham Folger. Amy becomes obsessed with watching her neighbor's apartment, only to realize something is watching her back.",
+        "series": "Season 1",
+        "length": "24 min",
+        "utterances": [
+          "I started watching Graham's flat across the street. Just to see if he'd come back.",
+          "Every night at the same time, I'd see a figure in his window. But it wasn't Graham.",
+          "Then I realized - it was watching me back. It knew I was there."
+        ],
+        "transcript": "Statement of Amy Patel, regarding the alleged disappearance of her acquaintance Graham Folger. Original statement given March 2nd, 2009. Audio recording by Jonathan Sims. Statement begins. Graham lived across the street from me. We'd wave sometimes. Then one day he just... wasn't there anymore. I started watching his flat, waiting for him to return. That's when I noticed the figure in the window. Every night, same time, same window. Standing perfectly still. I thought it might be Graham at first, but the proportions were wrong. And then one night, I realized it was looking directly at me. It had been watching me watching it.",
+        "transcript_link": "https://snarp.github.io/magnus_archives_transcripts/episode/003.html",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Eye",
+          "Surveillance",
+          "Obsession",
+          "Missing Person"
+        ]
+      },
+      {
+        "episode_id": "TMA-004",
+        "title": "Page Turner",
+        "release_date": "2016-03-30",
+        "summary": "Statement of Dominic Swain, regarding a book briefly in his possession in the winter of 2012. The book appears to be a normal novel but contains increasingly disturbing and personalized content.",
+        "series": "Season 1",
+        "length": "23 min",
+        "utterances": [
+          "The book looked normal at first. Just a cheap paperback from a charity shop.",
+          "But as I read, the story started to change. It knew things about me. Personal things.",
+          "The final chapter described exactly what would happen to me if I kept reading."
+        ],
+        "transcript": "Statement of Dominic Swain regarding a book briefly in his possession in the winter of 2012. Original statement given February 11th, 2013. Statement begins. I found this book at a charity shop. Looked like your average thriller, nothing special. Started reading it on the train home. The protagonist shared my name, which was weird but not unheard of. Then he started making the same choices I would make. Going to the same places. By the middle of the book, it was describing my life, my habits, people I knew. The last chapter was about what would happen if I finished reading. I threw the book away before I got there.",
+        "transcript_link": "https://snarp.github.io/magnus_archives_transcripts/episode/004.html",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Eye",
+          "Cursed Book",
+          "Leitner Book",
+          "Prophecy"
+        ]
+      },
+      {
+        "episode_id": "TMA-005",
+        "title": "Thrown Away",
+        "release_date": "2016-04-01",
+        "summary": "Statement of Keiran Woodward, regarding items recovered from the refuse of 93 Lancaster Road, Walthamstowe. A binman discovers disturbing evidence of something terrible living in someone's trash.",
+        "series": "Season 1",
+        "length": "25 min",
+        "utterances": [
+          "The bins at number 93 were always the heaviest. And they smelled... wrong.",
+          "One day I looked inside. There were bones. Too many bones.",
+          "Then I found the photographs. Pictures of people I'd seen on missing person posters."
+        ],
+        "transcript": "Statement of Keiran Woodward regarding items recovered from the refuse of 93 Lancaster Road, Walthamstowe. Original statement given April 7th, 2014. Statement begins. I'm a binman. Have been for twelve years. You see a lot of weird stuff in people's trash, but nothing like number 93. The bins were always heavy, and there was this smell - like meat left out too long. One morning I decided to look. Bones. Lots of bones. Some looked animal, but some... didn't. And underneath, photographs of people. I recognized some of the faces from missing person posters around the area.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Flesh",
+          "Serial Killer",
+          "Body Horror",
+          "Discovery"
+        ]
+      },
+      {
+        "episode_id": "TMA-006",
+        "title": "Squirm",
+        "release_date": "2016-04-06",
+        "summary": "Statement of Timothy Hodge regarding his sexual encounter with Harriet Lee and her subsequent death. A disturbing tale of parasitic infestation.",
+        "series": "Season 1",
+        "length": "24 min",
+        "utterances": [
+          "After we... after that night, I started feeling them. Moving under my skin.",
+          "I saw her body. It was... hollow. Like something had eaten her from the inside out.",
+          "The worms were everywhere. In the walls, in the floor. They were spreading."
+        ],
+        "transcript": "Statement of Timothy Hodge regarding his sexual encounter with Harriet Lee and her subsequent death. Original statement given June 13th, 2014. Statement begins. I met Harriet at a bar. She was charming, a bit odd, but I liked her. We went back to her place. The next morning, I felt itchy. Really itchy. When I checked on her, she was dead. Her body looked... deflated. Empty. And I could see them moving under my skin. Worms. Thousands of them.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Corruption",
+          "Jane Prentiss",
+          "Parasites",
+          "Body Horror"
+        ]
+      },
+      {
+        "episode_id": "TMA-007",
+        "title": "The Piper",
+        "release_date": "2016-04-13",
+        "summary": "Statement of Staff Sergeant Clarence Berry regarding his time serving with the British Army in Flanders during World War I. A mysterious piper leads soldiers to their doom.",
+        "series": "Season 1",
+        "length": "26 min",
+        "utterances": [
+          "We heard the pipes at night. Even over the sound of the guns.",
+          "Men would just... walk toward the sound. Into no man's land. They never came back.",
+          "I saw him once, the piper. His face was covered in bandages, but his eyes... they weren't human."
+        ],
+        "transcript": "Statement of Staff Sergeant Clarence Berry regarding his time serving with the British Army in Flanders during World War I. Original statement given December 17th, 1922. Statement begins. We were in the trenches for months. The shelling never stopped. But worse than the bombs was the piper. We'd hear music at night, haunting melodies that cut through the gunfire. Men would stand up and walk toward the sound, right into no man's land. We tried to stop them, but they wouldn't respond. They just kept walking, like they were in a trance. None of them ever came back.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Slaughter",
+          "World War I",
+          "Mass Compulsion",
+          "War Horror"
+        ]
+      },
+      {
+        "episode_id": "TMA-008",
+        "title": "Burned Out",
+        "release_date": "2016-04-20",
+        "summary": "Statement of Ivo Lensik regarding his experiences during the construction of a house on Hill Top Road, Oxford. Strange architectural decisions lead to supernatural consequences.",
+        "series": "Season 1",
+        "length": "25 min",
+        "utterances": [
+          "The architect's plans made no sense. Doors that led nowhere, windows at strange angles.",
+          "There was a tree growing through the middle of the house. They built around it.",
+          "When the fire started, it burned everything except that tree. It just stood there, untouched."
+        ],
+        "transcript": "Statement of Ivo Lensik regarding his experiences during the construction of a house on Hill Top Road, Oxford. Original statement given May 30th, 2014. Statement begins. I was the foreman on that construction project. From day one, things were strange. The architect - Raymond Fielding - had drawn up the most bizarre plans. Rooms that couldn't be reached, stairs that went nowhere. And there was this tree, right in the middle of where the house was supposed to be. He insisted we build around it. When the place burned down years later, everything was destroyed. Everything except that tree.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Desolation",
+          "Hill Top Road",
+          "Fire",
+          "Cursed Location"
+        ]
+      },
+      {
+        "episode_id": "TMA-009",
+        "title": "A Father's Love",
+        "release_date": "2016-04-27",
+        "summary": "Statement of Julia Montauk regarding the actions and motivations of her father, Robert Montauk. A child learns that her father hunts monsters in the dark.",
+        "series": "Season 1",
+        "length": "27 min",
+        "utterances": [
+          "My father taught me that there are things in the dark. Real things that want to hurt us.",
+          "He showed me how to hunt them. How to kill them before they kill you.",
+          "The night he died, I finally understood. He wasn't hunting monsters. He was protecting me from becoming one."
+        ],
+        "transcript": "Statement of Julia Montauk regarding the actions and motivations of her father, Robert Montauk. Original statement given April 29th, 2008. Statement begins. My father was a hunter. Not of animals - of things that hide in the dark. He taught me from a young age that there are monsters in the world, and someone has to stop them. We'd go out at night with silver bullets and blessed weapons. I thought he was crazy until I saw one myself. A thing that looked almost human, but moved wrong. My father killed it, and I realized he'd been telling the truth all along.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Hunt",
+          "Monster Hunter",
+          "Family",
+          "Dark Creatures"
+        ]
+      },
+      {
+        "episode_id": "TMA-010",
+        "title": "Vampire Killer",
+        "release_date": "2016-05-04",
+        "summary": "Statement of Trevor Herbert regarding his life as a vagrant and his encounters with a creature he believes to be a vampire. An old homeless man hunts something ancient.",
+        "series": "Season 1",
+        "length": "28 min",
+        "utterances": [
+          "I've been hunting this thing for thirty years. It's killed more people than I can count.",
+          "People call them vampires, but that's not quite right. They're older than that. Hungrier.",
+          "I finally cornered it in an abandoned warehouse. We both knew only one of us was leaving."
+        ],
+        "transcript": "Statement of Trevor Herbert regarding his life as a vagrant and his encounters with a creature he believes to be a vampire. Original statement given February 19th, 2010. Statement begins. I've been on the streets a long time. You see things out here that other people don't. Things that hunt at night. I've made it my mission to hunt them back. There's one in particular I've been tracking for decades. Feeds on people, leaves them dried out like husks. I've come close to killing it a few times, but it always gets away. Not for much longer though. I'm close now. I can feel it.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Hunt",
+          "Vampire",
+          "Homeless",
+          "Long Pursuit"
+        ]
+      },
+      {
+        "episodes": [
+          {
+            "episode_id": "TMA-011",
+            "title": "Dreamer",
+            "release_date": "2016-05-11",
+            "summary": "Statement of Antonio Blake regarding his claimed prophetic dreams and their veracity. Dreams that predict the future in horrifying detail.",
+            "series": "Season 1",
+            "length": "25 min",
+            "utterances": [
+              "I started having these dreams three months ago. Vivid, terrible dreams.",
+              "The worst part? They always come true. Every single one.",
+              "Last night I dreamed about my own death. In three days' time."
+            ],
+            "transcript": "Statement of Antonio Blake regarding his claimed prophetic dreams and their veracity. Original statement given December 11th, 2007. Statement begins. It started with small things. I'd dream about conversations before they happened, or accidents I'd see on the news the next day. Then the dreams got worse. More detailed. More violent. I dreamed about the Parsons Street fire two weeks before it happened. Saw every detail - the screams, the smoke, the bodies. When it actually happened exactly as I'd dreamed, I knew I wasn't going crazy. Something was showing me these things.",
+            "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "topics": [
+              "The End",
+              "Prophetic Dreams",
+              "Precognition",
+              "Death Prediction"
+            ]
+          },
+          {
+            "episode_id": "TMA-012",
+            "title": "First Aid",
+            "release_date": "2016-05-18",
+            "summary": "Statement of Lesere Saraki regarding a recent night shift as a paramedic with the London Ambulance Service. A routine call becomes a nightmare.",
+            "series": "Season 1",
+            "length": "26 min",
+            "utterances": [
+              "The call came in at 2 AM. Cardiac arrest in an abandoned building.",
+              "When we got there, the patient was already dead. Had been for hours.",
+              "But someone had called us. And they were still in the building, watching us."
+            ],
+            "transcript": "Statement of Lesere Saraki regarding a recent night shift as a paramedic with the London Ambulance Service. Original statement given March 15th, 2015. Statement begins. I've been a paramedic for eight years. You get used to seeing death. But this call was different. We got dispatched to an abandoned warehouse for a cardiac arrest. When we arrived, the patient was obviously dead - had been for hours. But the call had come in only minutes before. Someone had lured us there. I could feel them watching us from the shadows as we worked.",
+            "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "topics": [
+              "The End",
+              "Death",
+              "Medical Horror",
+              "Trap"
+            ]
+          },
+          {
+            "episode_id": "TMA-013",
+            "title": "Alone",
+            "release_date": "2016-05-25",
+            "summary": "Statement of Naomi Herne regarding a strange encounter on Old Fishmarket Close in Edinburgh on August 30th 2012. A woman disappears into the dark.",
+            "series": "Season 1",
+            "length": "24 min",
+            "utterances": [
+              "One moment Evan was right beside me. The next, he was gone.",
+              "The alley was completely dark. No streetlights, no moon. Just... nothing.",
+              "I heard him screaming, but I couldn't find him. It was like the darkness had swallowed him whole."
+            ],
+            "transcript": "Statement of Naomi Herne regarding a strange encounter on Old Fishmarket Close in Edinburgh on August 30th 2012. Statement begins. My boyfriend Evan and I were walking back from a pub. We took a shortcut through Old Fishmarket Close. It was darker than it should have been - all the streetlights were out. Evan was walking ahead of me, then suddenly he wasn't there anymore. I called his name and heard him screaming, but I couldn't see him. The darkness was complete, suffocating. When I finally found my way out, Evan was gone. They never found his body.",
+            "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "topics": [
+              "The Dark",
+              "Disappearance",
+              "Edinburgh",
+              "Supernatural Darkness"
+            ]
+          },
+          {
+            "episode_id": "TMA-014",
+            "title": "Piecemeal",
+            "release_date": "2016-06-01",
+            "summary": "Statement of Lee Rentoul regarding his time in anatomical dissection at the University of Edinburgh. Medical students discover something wrong with their cadaver.",
+            "series": "Season 1",
+            "length": "27 min",
+            "utterances": [
+              "Our cadaver was... different. The anatomy wasn't quite right.",
+              "Extra organs in places they shouldn't be. Muscles that didn't exist in any textbook.",
+              "Then one day, during dissection, it moved. Just a twitch, but we all saw it."
+            ],
+            "transcript": "Statement of Lee Rentoul regarding his time in anatomical dissection at the University of Edinburgh. Original statement given July 12th, 2010. Statement begins. I was a first-year medical student. Dissection was part of the curriculum. Our group was assigned cadaver B-7. From the start, something was off about it. The anatomy was wrong - organs in the wrong places, bones that had extra joints. We thought maybe it was a birth defect, but it was more than that. The body seemed to be... changing. Every day we'd come back and find new abnormalities. Then it started moving.",
+            "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "topics": [
+              "The Flesh",
+              "Medical Horror",
+              "Body Modification",
+              "University"
+            ]
+          },
+          {
+            "episode_id": "TMA-015",
+            "title": "Lost Johns' Cave",
+            "release_date": "2016-06-08",
+            "summary": "Statement of Laura Popham regarding the details of her trip through Lost Johns' Cave in the Yorkshire Dales. A caving expedition goes terribly wrong.",
+            "series": "Season 1",
+            "length": "29 min",
+            "utterances": [
+              "The cave system went deeper than any map showed. We just kept descending.",
+              "That's when we realized we were lost. The passages we'd marked weren't there anymore.",
+              "We found another caver. He'd been down there for years, trapped in the dark. And he was smiling."
+            ],
+            "transcript": "Statement of Laura Popham regarding the details of her trip through Lost Johns' Cave in the Yorkshire Dales. Original statement given November 20th, 2012. Statement begins. We were experienced cavers - me, my boyfriend, and two friends. Lost Johns' Cave is challenging but well-documented. Or so we thought. We took a passage that didn't match any of our maps. It kept going down, deeper and deeper. Our markers disappeared. The cave seemed to be changing around us. Then we found the body. Except it wasn't a body. He was alive, somehow, after years underground. And he didn't want to leave.",
+            "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "topics": [
+              "The Buried",
+              "Caves",
+              "Claustrophobia",
+              "Lost Underground"
+            ]
+          },
+          {
+            "episode_id": "TMA-016",
+            "title": "Arachnophobia",
+            "release_date": "2016-06-15",
+            "summary": "Statement of Carlos Vittery regarding his experience at the house of an acquaintance, Raymond Fielding. A house consumed by spiders.",
+            "series": "Season 1",
+            "length": "26 min",
+            "utterances": [
+              "The house was full of webs. Thick, dense webs in every corner.",
+              "Raymond just smiled and said they kept the other things out.",
+              "I saw them moving in the walls. Hundreds of spiders, all watching me."
+            ],
+            "transcript": "Statement of Carlos Vittery regarding his experience at the house of an acquaintance, Raymond Fielding. Original statement given February 6th, 2009. Statement begins. I went to visit Raymond at his house on Hill Top Road. The place was covered in spider webs - thick, rope-like strands everywhere. Raymond seemed unconcerned. He said the spiders were protection, that they kept worse things away. I didn't understand until I saw something move in the basement. Something that wasn't a spider, but was trying very hard to look like one. The real spiders attacked it, drove it back. Raymond just watched and smiled.",
+            "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "topics": [
+              "The Web",
+              "Spiders",
+              "Hill Top Road",
+              "Supernatural Protection"
+            ]
+          },
+          {
+            "episode_id": "TMA-017",
+            "title": "The Boneturner's Tale",
+            "release_date": "2016-06-22",
+            "summary": "Statement of Sebastian Adekoya regarding a book he discovered while on holiday in Sebastopol in 2004. A cursed book grants terrible knowledge.",
+            "series": "Season 1",
+            "length": "25 min",
+            "utterances": [
+              "The book was bound in what I thought was leather. It wasn't leather.",
+              "It taught me things. How to reshape bone, how to make flesh obey.",
+              "I tested it on a bird first. It worked. It worked too well."
+            ],
+            "transcript": "Statement of Sebastian Adekoya regarding a book he discovered while on holiday in Sebastopol in 2004. Original statement given May 9th, 2005. Statement begins. I found the book in an old shop. 'The Boneturner's Tale' it was called. The binding felt strange - I thought it was some kind of leather, but later realized it was skin. Human skin. The book contained instructions for manipulating bone and flesh, reshaping the human body. I thought it was nonsense until I tried it on a dead bird. The bones moved under my hands like clay. I threw the book away, but I still remember everything it taught me.",
+            "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "topics": [
+              "The Flesh",
+              "Leitner Book",
+              "Body Horror",
+              "Forbidden Knowledge"
+            ]
+          },
+          {
+            "episode_id": "TMA-018",
+            "title": "The Man Upstairs",
+            "release_date": "2016-06-29",
+            "summary": "Statement of Christof Rudenko regarding his interactions with a first floor resident of Welbeck House, Wandsworth. Strange noises and stranger discoveries.",
+            "series": "Season 1",
+            "length": "27 min",
+            "utterances": [
+              "The man upstairs never came outside. But I could hear him moving around at all hours.",
+              "There were these thuds, like heavy weights being dropped. Over and over.",
+              "When the police finally broke down his door, they found pieces. Just pieces."
+            ],
+            "transcript": "Statement of Christof Rudenko regarding his interactions with a first floor resident of Welbeck House, Wandsworth. Original statement given June 19th, 2013. Statement begins. I lived below this man for two years. Never saw him, but heard him constantly. Heavy footsteps, thuds like meat being dropped on the floor. The smell that came through my ceiling was unbearable. When he stopped paying rent, the landlord had the police break in. They found the flat full of body parts. Fresh ones. But they never found the man himself. He just disappeared.",
+            "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "topics": [
+              "The Flesh",
+              "Serial Killer",
+              "Body Parts",
+              "Urban Horror"
+            ]
+          },
+          {
+            "episode_id": "TMA-019",
+            "title": "Confession",
+            "release_date": "2016-07-06",
+            "summary": "Statement of Father Edwin Burroughs regarding his claimed demonic possession. Part 1 of 2. A priest confronts something ancient.",
+            "series": "Season 1",
+            "length": "28 min",
+            "utterances": [
+              "I've performed dozens of exorcisms in my time as a priest. This one was different.",
+              "The voice that came out of her wasn't human. It knew things about me, secret things.",
+              "It offered me a deal. Knowledge in exchange for... service."
+            ],
+            "transcript": "Statement of Father Edwin Burroughs regarding his claimed demonic possession. Original statement given March 22nd, 1974. Statement begins. I was called to perform an exorcism on a young woman named Clara Davies. She had been in a catatonic state for weeks, speaking in tongues. When I began the ritual, she opened her eyes and looked right through me. The voice that spoke wasn't hers. It knew details about my life, my secret sins. It made me an offer - all the knowledge I desired, all the answers to my theological questions, in exchange for becoming its servant.",
+            "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "topics": [
+              "The Eye",
+              "Possession",
+              "Religious Horror",
+              "Bargain"
+            ]
+          },
+          {
+            "episode_id": "TMA-020",
+            "title": "Desecrated Host",
+            "release_date": "2016-07-13",
+            "summary": "Continuation of the statement of Father Edwin Burroughs regarding his claimed demonic possession. Part 2 of 2. The consequences of accepting forbidden knowledge.",
+            "series": "Season 1",
+            "length": "27 min",
+            "utterances": [
+              "I accepted the offer. God forgive me, but I wanted to know.",
+              "The knowledge came in dreams. Terrible, vivid dreams that felt like watching.",
+              "Now I can't stop watching. I see everything, know everything. And I'm trapped in this awareness."
+            ],
+            "transcript": "Continuation of the statement of Father Edwin Burroughs regarding his claimed demonic possession. Statement continues. I said yes. I accepted the bargain. The entity left Clara's body and she recovered completely, with no memory of what had happened. But I was changed. Information started flooding into my mind - secrets about my parishioners, hidden truths about the church, knowledge of things yet to come. I tried to use it for good at first, but the more I knew, the more I had to watch. I became obsessed with observing, with knowing every detail of every life around me. That's when I realized what I had become. Not possessed - transformed.",
+            "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+            "topics": [
+              "The Eye",
+              "Transformation",
+              "Price of Knowledge",
+              "Corruption"
+            ]
+          }
+        ]
+      },
+      {
+        "episode_id": "TMA-021",
+        "title": "Freefall",
+        "release_date": "2016-07-20",
+        "summary": "Statement of Moira Kelly regarding the disappearance of her son Robert. A child vanishes into the sky.",
+        "series": "Season 1",
+        "length": "26 min",
+        "utterances": [
+          "Robert always loved looking up at the sky. He'd spend hours just staring upward.",
+          "That day in the park, he started floating. Just a few inches at first.",
+          "I tried to grab him, but he kept going up. Higher and higher until I couldn't see him anymore."
+        ],
+        "transcript": "Statement of Moira Kelly regarding the disappearance of her son Robert. Original statement given November 7th, 2006. Statement begins. My son Robert was fascinated by the sky from a very young age. He'd lie in the grass for hours, just staring up. I thought it was normal childhood behavior. The day he disappeared, we were at the park. He was lying on his back, looking up as usual. Then I noticed his coat wasn't touching the ground. He was floating, just an inch or two. Before I could react, he started rising faster. I grabbed for him but he slipped through my fingers. He went up and up until he vanished into the clouds. They never found a body.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Vast",
+          "Missing Child",
+          "Height",
+          "Ascension"
+        ]
+      },
+      {
+        "episode_id": "TMA-022",
+        "title": "Colony",
+        "release_date": "2016-07-27",
+        "summary": "Statement of Martin Blackwood, archival assistant at the Magnus Institute, regarding a close encounter with something he believes to have once been Jane Prentiss. The worm woman comes to the Archives.",
+        "series": "Season 1",
+        "length": "29 min",
+        "utterances": [
+          "I saw her outside my flat. Jane Prentiss, covered in worms. Just standing there, watching.",
+          "I'm trapped in the Archives. I can't go home. She's waiting for me.",
+          "The worms are in the walls. I can hear them moving."
+        ],
+        "transcript": "Statement of Martin Blackwood, archival assistant at the Magnus Institute, regarding a close encounter with something he believes to have once been Jane Prentiss. Statement given directly. Statement begins. Two weeks ago, I saw her outside my flat. Jane Prentiss. Her entire body was covered in worms, writhing under her skin. She was just standing there, staring at my window. I didn't go home that night. I've been sleeping in the Archives ever since. Jon thinks I'm being paranoid, but I know what I saw. Sometimes I can hear the worms in the walls, scratching. She's looking for me. I'm not safe anywhere.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Corruption",
+          "Jane Prentiss",
+          "Infestation",
+          "Martin Blackwood"
+        ]
+      },
+      {
+        "episode_id": "TMA-023",
+        "title": "Schwartzwald",
+        "release_date": "2016-08-03",
+        "summary": "Statement of Albrecht von Closen regarding a discovered tomb near his estate in the Black Forest. An ancient burial site holds terrible secrets.",
+        "series": "Season 1",
+        "length": "30 min",
+        "utterances": [
+          "We found the tomb during construction. It was older than any records suggested.",
+          "Inside were bodies, perfectly preserved, all facing inward toward something.",
+          "In the center was a book. When we opened it, the bodies started moving."
+        ],
+        "transcript": "Statement of Albrecht von Closen regarding a discovered tomb near his estate in the Black Forest. Original statement given August 19th, 1816. Statement begins. While expanding my estate, workers discovered an ancient tomb buried deep in the forest. The entrance was sealed with symbols I didn't recognize. Against my better judgment, we opened it. Inside were dozens of bodies, all preserved impossibly well. They were arranged in a circle, all facing inward. In the center was a book, bound in something that looked like bark but felt like flesh. When my foreman opened it, the corpses began to stir.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The End",
+          "Ancient Tomb",
+          "Leitner Book",
+          "Black Forest"
+        ]
+      },
+      {
+        "episode_id": "TMA-024",
+        "title": "Strange Music",
+        "release_date": "2016-08-10",
+        "summary": "Statement of Leanne Denikin regarding a new acquisition at Moorland House Care Home. A cursed pipe organ affects everyone who hears it.",
+        "series": "Season 1",
+        "length": "28 min",
+        "utterances": [
+          "The home acquired a pipe organ for the residents. It was beautifully restored.",
+          "But anyone who heard it play started... changing. Becoming more aggressive, violent.",
+          "I found the organist one night, playing in the dark. His hands were moving, but he wasn't conscious."
+        ],
+        "transcript": "Statement of Leanne Denikin regarding a new acquisition at Moorland House Care Home. Original statement given May 27th, 2015. Statement begins. The care home where I work received a donated pipe organ. Beautiful piece, Victorian era. We thought the residents would enjoy it. After the first performance, things changed. The residents became agitated, aggressive. Some of the staff too. The music affected everyone differently, but it always made them violent. I discovered the organist playing at 3 AM, completely unconscious, his fingers moving over the keys like someone else was controlling them.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Slaughter",
+          "Music",
+          "Violence",
+          "Cursed Object"
+        ]
+      },
+      {
+        "episode_id": "TMA-025",
+        "title": "Growing Dark",
+        "release_date": "2016-08-17",
+        "summary": "Statement of Mark Bilham regarding events culminating in his visit to Ny-Ålesund in Svalbard. Darkness consumes an Arctic research station.",
+        "series": "Season 1",
+        "length": "31 min",
+        "utterances": [
+          "The sun set in October and wouldn't rise again until February. Four months of darkness.",
+          "People started disappearing into the dark. We'd hear them screaming, but we couldn't find them.",
+          "The darkness was getting thicker. It felt like it was alive, pressing in on us."
+        ],
+        "transcript": "Statement of Mark Bilham regarding events culminating in his visit to Ny-Ålesund in Svalbard. Original statement given January 12th, 2012. Statement begins. I was part of a research team studying the polar night. We knew it would be dark for months, but we were prepared. Or so we thought. After the first week, the darkness started feeling wrong - heavier, more oppressive. Team members began vanishing. We'd hear them screaming in the dark, but when we went to investigate, there was nothing there. Just absolute darkness. The kind that swallows light.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Dark",
+          "Arctic",
+          "Polar Night",
+          "Research Station"
+        ]
+      },
+      {
+        "episode_id": "TMA-026",
+        "title": "A Distortion",
+        "release_date": "2016-08-24",
+        "summary": "Statement of Sasha James, archival assistant at the Magnus Institute, regarding a series of paranormal sightings. Sasha encounters something that shouldn't exist.",
+        "series": "Season 1",
+        "length": "27 min",
+        "utterances": [
+          "I saw a door that wasn't there before. It didn't match any of the other doors in the building.",
+          "There was someone... something behind it. It had too many angles.",
+          "It told me its name was Michael. It said it wanted to help, but I don't believe it."
+        ],
+        "transcript": "Statement of Sasha James, archival assistant at the Magnus Institute, regarding a series of paranormal sightings. Statement given directly. Statement begins. I've been seeing things around the Institute. Doors that appear and disappear, hallways that lead to nowhere. Last night I encountered... something. It looked almost human, but its proportions were all wrong, like looking at it hurt my eyes. It manifested through a door that shouldn't exist. Said its name was Michael. Said it was here to help us. I don't trust it. There's something fundamentally wrong about it.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Spiral",
+          "Michael",
+          "Distortion",
+          "Sasha James"
+        ]
+      },
+      {
+        "episode_id": "TMA-027",
+        "title": "A Sturdy Lock",
+        "release_date": "2016-08-31",
+        "summary": "Statement of Paul McKenzie, regarding repeated nocturnal intrusions into his home while he was resident in Blackhurst Village, Greater Manchester. Something keeps breaking in.",
+        "series": "Season 1",
+        "length": "26 min",
+        "utterances": [
+          "I kept hearing the door at night. Someone was trying to get in.",
+          "I installed better locks, reinforced the door. Nothing helped.",
+          "Then I realized - it was already inside. It had always been inside."
+        ],
+        "transcript": "Statement of Paul McKenzie regarding repeated nocturnal intrusions into his home while he was resident in Blackhurst Village, Greater Manchester. Original statement given April 14th, 2014. Statement begins. For six months, someone tried to break into my house every night. I'd hear the doorknob turning, scratching at the lock. I reinforced everything - new locks, bolts, even a security system. But every night, the sounds continued. Then one night I realized something. The sounds weren't coming from outside. They were coming from inside my house. Whatever was trying to get out, not in.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Stranger",
+          "Home Invasion",
+          "Paranoia",
+          "Inside Threat"
+        ]
+      },
+      {
+        "episode_id": "TMA-028",
+        "title": "Skin Tight",
+        "release_date": "2016-09-07",
+        "summary": "Statement of Melanie King regarding events at the Cambridge Military Hospital, Aldershot. An urban explorer discovers something wearing human skin.",
+        "series": "Season 1",
+        "length": "29 min",
+        "utterances": [
+          "We were filming an episode about the abandoned hospital. Just exploring, getting footage.",
+          "In the basement, we found surgical theater. There were bodies on the tables, but they were empty. Like skins.",
+          "Then I saw it. Something wearing one of those skins, learning how to move like a human."
+        ],
+        "transcript": "Statement of Melanie King regarding events at the Cambridge Military Hospital, Aldershot. Original statement given July 26th, 2016. Statement begins. I run a YouTube series investigating paranormal locations. We went to the abandoned military hospital in Aldershot. The place had been closed for decades. In the basement surgical theater, we found something impossible. Empty human skins, laid out like discarded clothes. And in the corner, something wearing one of them, practicing human movements. It saw us and started moving toward us, learning to walk as it came. We ran.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Stranger",
+          "Melanie King",
+          "Skin",
+          "Urban Exploration"
+        ]
+      },
+      {
+        "episode_id": "TMA-029",
+        "title": "Cheating Death",
+        "release_date": "2016-09-14",
+        "summary": "Statement of Nathaniel Thorp, regarding his own mortality. A man becomes obsessed with avoiding death.",
+        "series": "Season 1",
+        "length": "27 min",
+        "utterances": [
+          "I've had six near-death experiences in my life. Each time, I saw it.",
+          "Death. An actual figure, watching me, waiting for me to slip up.",
+          "I started taking precautions. Extreme precautions. But I know it's still there, watching."
+        ],
+        "transcript": "Statement of Nathaniel Thorp regarding his own mortality. Original statement given September 30th, 2008. Statement begins. I've cheated death six times. Car crash, drowning, disease, fire, poisoning, and a fall. Each time I survived when I shouldn't have. And each time, in that moment between life and death, I saw something watching me. A figure, patient and inevitable. Death itself. Now I live my life trying to avoid that seventh encounter. I know my luck will run out eventually. I can feel it watching me, waiting for its chance.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The End",
+          "Near-Death Experience",
+          "Paranoia",
+          "Death Personified"
+        ]
+      },
+      {
+        "episode_id": "TMA-030",
+        "title": "The Killing Floor",
+        "release_date": "2016-09-21",
+        "summary": "Statement of David Laylow, regarding his time working at an industrial abattoir near Dalston. A slaughterhouse hides something worse than death.",
+        "series": "Season 1",
+        "length": "30 min",
+        "utterances": [
+          "The abattoir processed thousands of animals a day. It was brutal but efficient.",
+          "Then we started finding extra carcasses. Ones that didn't match our records.",
+          "The meat was still moving on the hooks. Even hours after death."
+        ],
+        "transcript": "Statement of David Laylow regarding his time working at an industrial abattoir near Dalston. Original statement given June 19th, 2013. Statement begins. I worked at the abattoir for three years. You get used to the death, the blood, the sounds. But things started happening that weren't normal, even for that place. Extra carcasses appearing on the line that weren't in our system. Meat that seemed to move and twitch long after it should have stopped. And the smell - worse than normal death, worse than rot. One night I found the source. Something in the lower levels that wasn't animal and wasn't human. It was feeding.",
+        "transcript_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "audio_link": "https://rustyquill.com/show/the-magnus-archives/",
+        "topics": [
+          "The Flesh",
+          "Slaughter",
+          "Body Horror",
+          "Industrial Horror"
+        ]
+      }
+    ],
+    "episode_id": "",
+    "release_date": "",
+    "summary": "",
+    "series": "",
+    "length": "",
+    "utterances": [],
+    "transcript": "",
+    "transcript_link": "",
+    "audio_link": "",
+    "topics": []
+  }
+]

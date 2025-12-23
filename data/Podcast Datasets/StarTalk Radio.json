@@ -1,0 +1,442 @@
+[
+  {
+    "episode_id": "STARTALK-001",
+    "title": "Science of Star Trek",
+    "release_date": "2009-06-01",
+    "summary": "Neil deGrasse Tyson and guest scientists discuss the real science behind Star Trek, including space travel, alien life, and futuristic technology.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "How realistic is warp drive, really?",
+      "Star Trek imagined tablets before iPads existed.",
+      "The Prime Directive: would it ever work in human space exploration?"
+    ],
+    "transcript": "Tyson and physicist guests critique transporters, the plausibility of alien societies, and the technology that has gone from sci-fi to science fact.",
+    "transcript_link": "https://www.startalkradio.net/show/the-science-of-star-trek/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Star Trek",
+      "Technology",
+      "Physics",
+      "Alien Life"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-002",
+    "title": "Life on Mars",
+    "release_date": "2009-06-08",
+    "summary": "Explores current missions to Mars, evidence of water, and the latest search for signs of Martian life.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "The real science behind NASA’s Mars landers.",
+      "What can Mars geology tell us about habitability?",
+      "If there’s life, where are we most likely to find it?"
+    ],
+    "transcript": "Planetary scientists and astrobiologists break down new discoveries, and Neil offers insight into the future of Mars rovers.",
+    "transcript_link": "https://www.startalkradio.net/show/life-on-mars/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Mars",
+      "Astrobiology",
+      "Geology",
+      "Exploration"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-003",
+    "title": "The Physics of Superheroes",
+    "release_date": "2009-06-15",
+    "summary": "Analyzes the scientific plausibility of superhero abilities, from Spider-Man’s webs to Iron Man’s suit, with guest physicists.",
+    "series": "Season 1",
+    "length": "56 min",
+    "utterances": [
+      "Could anyone really swing between skyscrapers?",
+      "Iron Man’s suit: what science would be required?",
+      "Why the Hulk couldn’t actually exist—biochemically."
+    ],
+    "transcript": "Popular science discussions and laughs with Dr. Charles Liu, demystifying what’s possible and what’s pure comic book fantasy.",
+    "transcript_link": "https://www.startalkradio.net/show/the-physics-of-superheroes/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Superheroes",
+      "Physics",
+      "Comics",
+      "Biology"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-004",
+    "title": "Cosmic Collisions",
+    "release_date": "2009-06-22",
+    "summary": "Focuses on asteroids, comets, and the frequency and risk of major impacts on Earth.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "What’s the biggest known impact in solar system history?",
+      "Are we prepared for a major asteroid threat?",
+      "What are the odds of a civilization-ending event in our lifetime?"
+    ],
+    "transcript": "Tyson investigates past extinctions, planetary impacts, and how science and policy could prevent future catastrophe.",
+    "transcript_link": "https://www.startalkradio.net/show/cosmic-collisions/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Asteroids",
+      "Extinction",
+      "Space Policy",
+      "Comets"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-005",
+    "title": "The Science of Comedy",
+    "release_date": "2009-06-29",
+    "summary": "Explores the neuroscience and psychology behind humor, with comedians and brain scientists discussing why we laugh.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Why do humans have a sense of humor?",
+      "Comedians riff on what makes science cringe-worthy.",
+      "Laughter and learning are closely linked."
+    ],
+    "transcript": "Neuroscience of laughter is explored alongside stand-up routines and science jokes, with recurring co-host Chuck Nice.",
+    "transcript_link": "https://www.startalkradio.net/show/the-science-of-comedy/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Comedy",
+      "Psychology",
+      "Brain",
+      "Humor"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-006",
+    "title": "Women in Science",
+    "release_date": "2009-07-06",
+    "summary": "Spotlights the trailblazers in STEM, examining the challenges and triumphs of women in science and engineering fields.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Encouraging women in science starts early.",
+      "Role models shape the next generation.",
+      "Why has physics been slower to diversify?"
+    ],
+    "transcript": "Interviews with leading women in astrophysics, biology, and NASA, highlighting progress and persistent obstacles.",
+    "transcript_link": "https://www.startalkradio.net/show/women-in-science/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Women",
+      "STEM",
+      "Diversity",
+      "Education"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-007",
+    "title": "The Science of Star Wars",
+    "release_date": "2009-07-13",
+    "summary": "From lightsabers to droids, Tyson and guests break down Star Wars tech and its physics with a playful touch.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "Could you ever really build a lightsaber?",
+      "Why droid behavior is more plausible than you think.",
+      "Does any planet make sense scientifically?"
+    ],
+    "transcript": "Myth-busting sessions with roboticists and astronomers make Star Wars more fun than ever for science nuts.",
+    "transcript_link": "https://www.startalkradio.net/show/science-of-star-wars/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Star Wars",
+      "Technology",
+      "Robotics",
+      "Astronomy"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-008",
+    "title": "Aliens: The Fermi Paradox",
+    "release_date": "2009-07-20",
+    "summary": "What are the odds of alien life—and if it exists, why haven’t we heard from it? Explores Fermi’s question and the Drake Equation.",
+    "series": "Season 1",
+    "length": "57 min",
+    "utterances": [
+      "The universe is big, so where is everybody?",
+      "SETI is listening harder than you know.",
+      "Missed signals or rare life: which is it?"
+    ],
+    "transcript": "Neil and SETI Institute researchers break down the best guesses and what would actually happen if we got a signal.",
+    "transcript_link": "https://www.startalkradio.net/show/the-fermi-paradox/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Aliens",
+      "SETI",
+      "Fermi Paradox",
+      "Drake Equation"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-009",
+    "title": "Black Holes & Time Warps",
+    "release_date": "2009-07-27",
+    "summary": "Discusses the science and fantasy of black holes, time dilation, and what would happen if you fell in.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Event horizons are the point of no return.",
+      "Time travel is science fiction—mostly.",
+      "Black holes might power the universe’s strangest phenomena."
+    ],
+    "transcript": "Astrophysicists explain wormholes, general relativity, and why we’re still obsessed with space-time.",
+    "transcript_link": "https://www.startalkradio.net/show/black-holes-time-warps/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Black Holes",
+      "Time",
+      "Relativity",
+      "Astrophysics"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-010",
+    "title": "StarTalk Live! with Bill Nye",
+    "release_date": "2009-08-03",
+    "summary": "Special episode recorded live with Bill Nye ‘The Science Guy’, answering listener questions from evolution to the space race.",
+    "series": "Season 1",
+    "length": "61 min",
+    "utterances": [
+      "Bill Nye inspires a new wave of STEM fans.",
+      "Live Q&A makes for surprising science tangents.",
+      "Sometimes the best answers are jokes."
+    ],
+    "transcript": "Bill and Neil riff on rocket history, misunderstandings in pop science, and STEM outreach.",
+    "transcript_link": "https://www.startalkradio.net/show/star-talk-live-with-bill-nye/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Bill Nye",
+      "Evolution",
+      "Education",
+      "Live Event"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-011",
+    "title": "The Future of Humanity",
+    "release_date": "2009-08-10",
+    "summary": "Examines big predictions about the next century: genetic engineering, AI, and space colonization.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "What would it really mean to colonize Mars?",
+      "Can biotechnology ‘upgrade’ the human body?",
+      "AI and ethics go hand in hand."
+    ],
+    "transcript": "Philosophers and technologists weigh pros and cons of bold future paths.",
+    "transcript_link": "https://www.startalkradio.net/show/future-of-humanity/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Future",
+      "AI",
+      "Genetics",
+      "Colonization"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-012",
+    "title": "Space Tourism",
+    "release_date": "2009-08-17",
+    "summary": "Can private enterprise make commercial spaceflight a near-future reality? With Virgin Galactic and SpaceX leaders.",
+    "series": "Season 1",
+    "length": "57 min",
+    "utterances": [
+      "Will space tourism be affordable in our lifetimes?",
+      "SpaceX vs. Virgin: Who will get there first?",
+      "Microgravity vacations—are you in?"
+    ],
+    "transcript": "Industry leaders discuss launches, legalities, and training for the paying space passenger.",
+    "transcript_link": "https://www.startalkradio.net/show/space-tourism/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Space Tourism",
+      "Commercial",
+      "Business",
+      "Travel"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-013",
+    "title": "Music of the Cosmos",
+    "release_date": "2009-08-24",
+    "summary": "How do planets, stars, and nebulae inspire music and sound design? Astrophysics meets creativity.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Sound can't travel in a vacuum—so why so much cosmic music?",
+      "Musicians and scientists decode astronomical influences.",
+      "What would a neutron star sound like?"
+    ],
+    "transcript": "Composers and physicists collaborate to make sense of cosmic harmonies and sonic representations.",
+    "transcript_link": "https://www.startalkradio.net/show/music-of-the-cosmos/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Music",
+      "Cosmos",
+      "Sound",
+      "Creativity"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-014",
+    "title": "Secrets of the Moon",
+    "release_date": "2009-08-31",
+    "summary": "The story of lunar formation, moon missions, and why Earth’s only natural satellite still holds so many mysteries.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "Apollo missions were only the beginning.",
+      "What explains the moon’s dark side?",
+      "Lunar geology is a puzzle still being solved."
+    ],
+    "transcript": "Tyson explores lunar geology, ancient myths, and modern NASA mission designs.",
+    "transcript_link": "https://www.startalkradio.net/show/secrets-of-the-moon/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Moon",
+      "Apollo",
+      "NASA",
+      "Geology"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-015",
+    "title": "Sports Science",
+    "release_date": "2009-09-07",
+    "summary": "What does science say about athletic performance, physics of motion, and the boundaries of human achievement?",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Why can’t a human run a two-hour marathon—yet?",
+      "Biomechanics and nutrition for record chasers.",
+      "The science behind sports myths."
+    ],
+    "transcript": "Coaches, athletes, and engineers break down human limits, training, and surprising facts about the body.",
+    "transcript_link": "https://www.startalkradio.net/show/sports-science/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Sports",
+      "Biomechanics",
+      "Nutrition",
+      "Performance"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-016",
+    "title": "Quantum Weirdness",
+    "release_date": "2009-09-14",
+    "summary": "Demystifies entanglement, the observer effect, and the spookiest results of quantum physics with world-leading experts.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Quantum mechanics isn’t just weird, it’s essential.",
+      "Entanglement is the universe’s wildest magic trick.",
+      "Is reality truly probabilistic?"
+    ],
+    "transcript": "Theoretical physicists reveal strange facts and what quantum tech could enable next.",
+    "transcript_link": "https://www.startalkradio.net/show/quantum-weirdness/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Quantum",
+      "Entanglement",
+      "Physics",
+      "Reality"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-017",
+    "title": "Dinosaurs and Other Ancient Life",
+    "release_date": "2009-09-21",
+    "summary": "Paleontologists dig into mass extinctions, dino biology, and the search for new fossils.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "T. rex is just the tip of the fossil iceberg.",
+      "What killed off the dinosaurs, and could it happen again?",
+      "Ancient DNA lets us see the past clearer than ever."
+    ],
+    "transcript": "Neil and guests crack open fossil history, connect Earth history to climate cycles, and the science of Jurassic Park.",
+    "transcript_link": "https://www.startalkradio.net/show/dinosaurs-ancient-life/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Dinosaurs",
+      "Fossils",
+      "Extinction",
+      "Paleontology"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-018",
+    "title": "Origin of the Elements",
+    "release_date": "2009-09-28",
+    "summary": "How do stars make elements, and what’s the cosmic chemistry that shapes planets and life?",
+    "series": "Season 1",
+    "length": "57 min",
+    "utterances": [
+      "Every atom in your body comes from a star.",
+      "Periodic table stories go cosmic.",
+      "Supernovae create and destroy worlds."
+    ],
+    "transcript": "Physicists and chemists describe nuclear fusion, the birth of new elements, and the search for exotic isotopes.",
+    "transcript_link": "https://www.startalkradio.net/show/origin-of-elements/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Elements",
+      "Stars",
+      "Nucleosynthesis",
+      "Chemistry"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-019",
+    "title": "The Science of Cooking",
+    "release_date": "2009-10-05",
+    "summary": "Chefs and food chemists serve up the science of flavor, fermentation, and why some recipes just work.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "The Maillard reaction explains why we love seared food.",
+      "Fermented foods and probiotics—are they healing or hype?",
+      "How does your brain really taste sugar?"
+    ],
+    "transcript": "Neil and culinary inventors explain how cooking is chemistry—and how to hack it.",
+    "transcript_link": "https://www.startalkradio.net/show/science-of-cooking/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Cooking",
+      "Food",
+      "Chemistry",
+      "Taste"
+    ]
+  },
+  {
+    "episode_id": "STARTALK-020",
+    "title": "Neuroscience and the Brain",
+    "release_date": "2009-10-12",
+    "summary": "What do we really know about the brain? Neuroscientists discuss memory, consciousness, and big mysteries that research hasn't cracked yet.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "How does your memory work—and why does it fail?",
+      "Consciousness remains the biggest unsolved problem.",
+      "Is AI getting closer to brain-like thinking?"
+    ],
+    "transcript": "Neil and leading neuroscientists review mapping the brain, cures for disease, and the philosophy of mind.",
+    "transcript_link": "https://www.startalkradio.net/show/neuroscience-and-the-brain/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/startalk-radio/id325404506",
+    "topics": [
+      "Neuroscience",
+      "Brain",
+      "Consciousness",
+      "AI"
+    ]
+  }
+]

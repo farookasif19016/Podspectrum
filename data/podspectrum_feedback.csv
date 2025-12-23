@@ -1,0 +1,14 @@
+traits_key,episode_id,like,dislike,not_interested,rating,review_text,timestamp
+0.60_0.50_0.50_0.50_0.49,ep2,False,False,False,3,,2025-11-11T18:54:33.783448
+0.99_0.50_0.50_0.50_0.49,ep1,True,False,False,3,Not Bad,2025-11-11T18:54:45.688157
+0.60_0.50_0.50_0.50_0.30,JRE-003,True,False,False,4,not bad,2025-11-11T20:32:45.658660
+0.60_0.50_0.50_0.50_0.30,JRE-003,True,False,False,3,not bad,2025-11-11T20:36:44.357718
+0.60_0.50_0.50_0.50_0.30,JRE-003,False,True,False,2,very bad,2025-11-11T20:37:39.764820
+0.60_0.50_0.50_0.50_0.30,JRE-003,True,False,False,3,more like this ,2025-11-11T20:50:46.417572
+0.60_0.50_0.50_0.50_0.30,JRE-003,True,False,False,5,working better,2025-11-11T20:51:33.391274
+0.13_0.90_0.50_0.50_0.30,STARTALK-010,True,False,False,2,not bad at all,2025-11-11T20:53:35.476054
+0.60_0.50_0.50_0.50_0.30,JRE-003,True,False,False,3,,2025-11-11T21:14:00.471995
+0.60_0.50_0.50_0.50_0.30,JRE-003,True,False,False,3,good,2025-11-11T21:28:10.846960
+0.60_0.50_0.50_0.84_0.30,REDHANDED-022,False,True,False,3,this is good,2025-11-11T21:38:11.951748
+0.60_0.50_0.50_0.50_0.30,JRE-003,False,True,False,2,okkk,2025-11-11T22:03:56.528884
+0.60_0.50_0.50_0.50_0.30,JRE-003,True,False,False,4,its working correctly ,2025-11-12T15:14:01.132505

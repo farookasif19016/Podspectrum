@@ -1,0 +1,442 @@
+[
+  {
+    "episode_id": "FREAK-001",
+    "title": "The Dangers of Safety",
+    "release_date": "2010-02-26",
+    "summary": "Explores the unexpected trade-offs when society prioritizes safety, with examples ranging from child-proofing to car seats.",
+    "series": "Season 1",
+    "length": "38 min",
+    "utterances": [
+      "Sometimes, interventions bring surprising new risks.",
+      "Do we underestimate the cost of feeling safe?",
+      "Not all regulations make things safer in practice."
+    ],
+    "transcript": "Steven Levitt and Stephen Dubner talk to economists and psychologists about real-world effects of safety laws, why they work, and when they backfire.",
+    "transcript_link": "https://freakonomics.com/podcast/the-dangers-of-safety/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Safety",
+      "Regulation",
+      "Risk",
+      "Policy"
+    ]
+  },
+  {
+    "episode_id": "FREAK-002",
+    "title": "The Power of Incentives",
+    "release_date": "2010-03-05",
+    "summary": "Shows how incentives shape choices in education, business, and daily life, sometimes in counterintuitive ways.",
+    "series": "Season 1",
+    "length": "34 min",
+    "utterances": [
+      "People respond to incentives—we just don’t always predict how.",
+      "How much does money motivate teachers or criminals?",
+      "Incentives can be both the problem and solution."
+    ],
+    "transcript": "Economists and behavioral scientists share classic and surprising examples of incentives at work.",
+    "transcript_link": "https://freakonomics.com/podcast/the-power-of-incentives/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Incentives",
+      "Behavior",
+      "Economics",
+      "Motivation"
+    ]
+  },
+  {
+    "episode_id": "FREAK-003",
+    "title": "Bad Medicine, Part 1: The Story of 98.6",
+    "release_date": "2010-03-12",
+    "summary": "Questions the legitimacy of medical benchmarks like a 'normal' body temperature and challenges what we think we know about health standards.",
+    "series": "Season 1",
+    "length": "36 min",
+    "utterances": [
+      "Why is 98.6°F the standard—and is it accurate?",
+      "Medical guidelines are less universal than they seem.",
+      "History and science aren’t always in sync."
+    ],
+    "transcript": "Medical historians and clinicians discuss how benchmarks are created and how medical myths persist.",
+    "transcript_link": "https://freakonomics.com/podcast/bad-medicine-part-1/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Medicine",
+      "Health",
+      "Benchmarks",
+      "Standards"
+    ]
+  },
+  {
+    "episode_id": "FREAK-004",
+    "title": "Bad Medicine, Part 2: Concussion Inc.",
+    "release_date": "2010-03-19",
+    "summary": "Investigates the science, business, and controversy around concussions in football, and why solutions are so hard to implement.",
+    "series": "Season 1",
+    "length": "37 min",
+    "utterances": [
+      "The NFL’s relationship to science is more complex than admitted.",
+      "Concussion science is evolving fast.",
+      "Injury tracking has changed public health debates."
+    ],
+    "transcript": "Talks with sports economists, doctors, and league officials on how incentives warped the safety conversation.",
+    "transcript_link": "https://freakonomics.com/podcast/bad-medicine-part-2/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Concussion",
+      "Football",
+      "Health",
+      "Sport"
+    ]
+  },
+  {
+    "episode_id": "FREAK-005",
+    "title": "Why We Ignore Experts",
+    "release_date": "2010-03-26",
+    "summary": "Examines why people distrust expertise, from weather forecasts to financial advice, and who gets listened to in a crisis.",
+    "series": "Season 1",
+    "length": "32 min",
+    "utterances": [
+      "Why do we believe gut instincts over hard data?",
+      "Distrust of experts is as old as expertise itself.",
+      "Public trust moves in cycles."
+    ],
+    "transcript": "Reflects on examples from government and business—why sometimes crowds get it wrong, but sometimes they beat the experts.",
+    "transcript_link": "https://freakonomics.com/podcast/why-we-ignore-experts/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Experts",
+      "Trust",
+      "Decision",
+      "Prediction"
+    ]
+  },
+  {
+    "episode_id": "FREAK-006",
+    "title": "Are We Ready for Autonomous Cars?",
+    "release_date": "2010-04-02",
+    "summary": "Looks at the technology, ethics, and challenges of driverless cars and what they'll mean for the future of transportation.",
+    "series": "Season 1",
+    "length": "38 min",
+    "utterances": [
+      "Self-driving cars already exist in limited ways.",
+      "The hardest part may be public trust, not technology.",
+      "Insurance, law, and behavior have to evolve too."
+    ],
+    "transcript": "Features insights from engineers, urban planners, and ethicists forecasting the next steps for autonomous vehicles.",
+    "transcript_link": "https://freakonomics.com/podcast/are-we-ready-for-autonomous-cars/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Autonomous",
+      "Cars",
+      "Ethics",
+      "Innovation"
+    ]
+  },
+  {
+    "episode_id": "FREAK-007",
+    "title": "The Upside of Quitting",
+    "release_date": "2010-04-09",
+    "summary": "Reframes quitting as a rational choice, using stories from business, sports, and love lives.",
+    "series": "Season 1",
+    "length": "35 min",
+    "utterances": [
+      "Winners sometimes quit first.",
+      "Stick-to-it-iveness isn’t always the smartest path.",
+      "Sunk costs cloud our judgment."
+    ],
+    "transcript": "Discussion with behavioral economists reveals why most of us hang on too long to bad investments and failing strategies.",
+    "transcript_link": "https://freakonomics.com/podcast/the-upside-of-quitting/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Quitting",
+      "Decisions",
+      "Sunk Cost",
+      "Psychology"
+    ]
+  },
+  {
+    "episode_id": "FREAK-008",
+    "title": "The No-Tipping Point",
+    "release_date": "2010-04-16",
+    "summary": "Explores why some restaurants drop tipping, the psychology behind tips, and unexpected results of changing payment systems.",
+    "series": "Season 1",
+    "length": "33 min",
+    "utterances": [
+      "No-tipping restaurants are on the rise.",
+      "Cultural expectations play a huge role.",
+      "The debate over pay fairness isn’t over."
+    ],
+    "transcript": "Restaurateurs, economists, and servers share data and anecdotes about pay equity and customer satisfaction.",
+    "transcript_link": "https://freakonomics.com/podcast/the-no-tipping-point/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Tipping",
+      "Restaurants",
+      "Wages",
+      "Equity"
+    ]
+  },
+  {
+    "episode_id": "FREAK-009",
+    "title": "How to Think About Crime",
+    "release_date": "2010-04-23",
+    "summary": "Steven Levitt and Steven Dubner confront the real numbers behind crime, policing, and prevention—and why intuition often fails.",
+    "series": "Season 1",
+    "length": "34 min",
+    "utterances": [
+      "Crime stats don’t always match perceptions.",
+      "Broken windows theory has surprising limits.",
+      "Prevention doesn’t always mean punishment."
+    ],
+    "transcript": "Policymakers and criminologists explain what actually lowers crime rates and what does not.",
+    "transcript_link": "https://freakonomics.com/podcast/how-to-think-about-crime/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Crime",
+      "Prevention",
+      "Policing",
+      "Perception"
+    ]
+  },
+  {
+    "episode_id": "FREAK-010",
+    "title": "How Is a Bad Radio Station Like Our Public-School System?",
+    "release_date": "2010-04-30",
+    "summary": "Draws odd but revealing parallels between failing public schools and struggling radio stations, focusing on incentives and accountability.",
+    "series": "Season 1",
+    "length": "31 min",
+    "utterances": [
+      "Measuring outcomes isn’t always popular.",
+      "Accountability is tricky in both schools and media.",
+      "Making improvements often means making enemies."
+    ],
+    "transcript": "Education reformers and radio executives share lessons about feedback, metrics, and institutional change.",
+    "transcript_link": "https://freakonomics.com/podcast/bad-radio-station/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Education",
+      "Radio",
+      "Accountability",
+      "Reform"
+    ]
+  },
+  {
+    "episode_id": "FREAK-011",
+    "title": "The Hidden Side of Everything",
+    "release_date": "2010-05-07",
+    "summary": "Introduces the idea that almost any part of daily life can be understood—and improved—through data and economic thinking.",
+    "series": "Season 1",
+    "length": "33 min",
+    "utterances": [
+      "Economics explains more than just money.",
+      "Hidden connections are everywhere.",
+      "Asking new questions reveals hidden solutions."
+    ],
+    "transcript": "Levitt and Dubner mix classic stories and new examples to show how their approach uncovers what’s broken and why.",
+    "transcript_link": "https://freakonomics.com/podcast/the-hidden-side-of-everything/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Economics",
+      "Data",
+      "Inquiry",
+      "Solutions"
+    ]
+  },
+  {
+    "episode_id": "FREAK-012",
+    "title": "Why Do We Really Follow the News?",
+    "release_date": "2010-05-14",
+    "summary": "Looks at the psychology and incentives behind news consumption, selective attention, and why outrage sells.",
+    "series": "Season 1",
+    "length": "35 min",
+    "utterances": [
+      "Fear and anxiety shape the news we seek.",
+      "Headlines are behavioral cues.",
+      "Fake news is as old as news itself."
+    ],
+    "transcript": "Journalists and psychologists unpack how habits and business models shape the world’s information diet.",
+    "transcript_link": "https://freakonomics.com/podcast/why-do-we-follow-the-news/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "News",
+      "Media",
+      "Behavior",
+      "Attention"
+    ]
+  },
+  {
+    "episode_id": "FREAK-013",
+    "title": "Is College Really Worth It?",
+    "release_date": "2010-05-21",
+    "summary": "Dissects the real costs and benefits of higher education—economically, personally, and for society.",
+    "series": "Season 1",
+    "length": "32 min",
+    "utterances": [
+      "Degree costs are higher than ever.",
+      "What skills are worth the tuition?",
+      "Education pays—but only for some."
+    ],
+    "transcript": "Economists, students, and business leaders debate what return on investment college offers in the modern world.",
+    "transcript_link": "https://freakonomics.com/podcast/is-college-really-worth-it/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "College",
+      "ROI",
+      "Education",
+      "Skills"
+    ]
+  },
+  {
+    "episode_id": "FREAK-014",
+    "title": "What Makes a Donor?",
+    "release_date": "2010-05-28",
+    "summary": "Surveys the economics and psychology of giving—why some donate money, time, or even organs, and how incentives matter.",
+    "series": "Season 1",
+    "length": "34 min",
+    "utterances": [
+      "Altruism isn’t always selfless.",
+      "Small incentives change donor behavior.",
+      "Social pressure is powerful, for good and bad."
+    ],
+    "transcript": "Features data on charitable giving, organ donation, and the surprising impact of recognition or gifts.",
+    "transcript_link": "https://freakonomics.com/podcast/what-makes-a-donor/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Charity",
+      "Donation",
+      "Altruism",
+      "Psychology"
+    ]
+  },
+  {
+    "episode_id": "FREAK-015",
+    "title": "How to Save a Life",
+    "release_date": "2010-06-04",
+    "summary": "Explores how hospitals, governments, and charities approach saving lives, and debates what actually works best.",
+    "series": "Season 1",
+    "length": "38 min",
+    "utterances": [
+      "Zero harm is seldom possible, but big gains are.",
+      "Simple interventions can lead to huge results.",
+      "Resource allocation means tough ethical choices."
+    ],
+    "transcript": "Doctors and public policy experts weigh evidence on health strategies, rules and randomness in survival odds.",
+    "transcript_link": "https://freakonomics.com/podcast/how-to-save-a-life/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Saving Lives",
+      "Health",
+      "Policy",
+      "Ethics"
+    ]
+  },
+  {
+    "episode_id": "FREAK-016",
+    "title": "Why Are So Many People Moving to Cities?",
+    "release_date": "2010-06-11",
+    "summary": "Looks at the economic and social factors driving historic urbanization, and what cities must do to thrive.",
+    "series": "Season 1",
+    "length": "36 min",
+    "utterances": [
+      "City living offers both opportunity and risk.",
+      "Urbanization is speeding up worldwide.",
+      "Infrastructure shapes how cities grow and prosper."
+    ],
+    "transcript": "Mayors, urban economists, and planners debate the pros and cons of city expansion, density, and changing values.",
+    "transcript_link": "https://freakonomics.com/podcast/why-are-so-many-people-moving-to-cities/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Cities",
+      "Urbanization",
+      "Growth",
+      "Infrastructure"
+    ]
+  },
+  {
+    "episode_id": "FREAK-017",
+    "title": "The Science of Shopping",
+    "release_date": "2010-06-18",
+    "summary": "Unpacks why and how we shop—the role of design, psychology, and nudges in influencing spending.",
+    "series": "Season 1",
+    "length": "38 min",
+    "utterances": [
+      "Shopping patterns are engineered as much as chosen.",
+      "Retailers exploit habits to drive sales.",
+      "Discounts can backfire, increasing costs."
+    ],
+    "transcript": "Retail experts, store owners, and behavioral scientists discuss how mental shortcuts lead to spending.",
+    "transcript_link": "https://freakonomics.com/podcast/the-science-of-shopping/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Shopping",
+      "Design",
+      "Behavior",
+      "Sales"
+    ]
+  },
+  {
+    "episode_id": "FREAK-018",
+    "title": "Good Fences, Bad Neighbors",
+    "release_date": "2010-06-25",
+    "summary": "Examines the truth behind property lines, housing policy, and how neighborhoods mix or clash.",
+    "series": "Season 1",
+    "length": "34 min",
+    "utterances": [
+      "Fences shape opportunity as much as ownership.",
+      "Integrated neighborhoods transform lives—and politics.",
+      "Gentrification pits progress against displacement."
+    ],
+    "transcript": "Sociologists, city officials, and residents share stories of community, conflict, and policy reform.",
+    "transcript_link": "https://freakonomics.com/podcast/good-fences-bad-neighbors/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Neighborhood",
+      "Housing",
+      "Policy",
+      "Gentrification"
+    ]
+  },
+  {
+    "episode_id": "FREAK-019",
+    "title": "When Is a Bribe a Bargain?",
+    "release_date": "2010-07-02",
+    "summary": "Considers the economic, ethical, and cultural sides of bribery—from local kickbacks to global corruption.",
+    "series": "Season 1",
+    "length": "35 min",
+    "utterances": [
+      "Not all gifts are bribes—but lines get blurry.",
+      "Law and morality don’t always line up.",
+      "Corruption affects rich and poor alike."
+    ],
+    "transcript": "Legal scholars, businesspeople, and citizens around the world discuss why bribery persists and how it shifts markets.",
+    "transcript_link": "https://freakonomics.com/podcast/when-is-a-bribe-a-bargain/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Bribe",
+      "Corruption",
+      "Ethics",
+      "Markets"
+    ]
+  },
+  {
+    "episode_id": "FREAK-020",
+    "title": "The Downside of Good Intentions",
+    "release_date": "2010-07-09",
+    "summary": "Explores how well-meaning actions can create harmful side effects, from charitable giving to overzealous policies.",
+    "series": "Season 1",
+    "length": "33 min",
+    "utterances": [
+      "Intentions alone rarely guarantee good results.",
+      "Unintended consequences are everywhere.",
+      "Learning means admitting and correcting mistakes."
+    ],
+    "transcript": "Nonprofit leaders, entrepreneurs, and economists unravel how good deeds can go astray and what to do about it.",
+    "transcript_link": "https://freakonomics.com/podcast/the-downside-of-good-intentions/",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/freakonomics-radio/id354668519",
+    "topics": [
+      "Charity",
+      "Unintended Consequences",
+      "Effectiveness",
+      "Policy"
+    ]
+  }
+]

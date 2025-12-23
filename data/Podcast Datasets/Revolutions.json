@@ -1,0 +1,442 @@
+[
+  {
+    "episode_id": "REVOLUTIONS-001",
+    "title": "The English Revolution I: King and Parliament",
+    "release_date": "2013-09-15",
+    "summary": "Introduces the 17th-century struggle between the English monarchy and Parliament, sowing the seeds of modern democracy.",
+    "series": "Season 1",
+    "length": "29 min",
+    "utterances": [
+      "Charles I’s rule without Parliament was unprecedented.",
+      "Financial and religious tensions pushed England to the brink.",
+      "The roadmap to revolution began with a budget crisis."
+    ],
+    "transcript": "Mike Duncan explores the early conflicts between monarch and Parliament, and how these disputes laid the foundation for civil war.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/09/episode-1.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "English Revolution",
+      "Parliament",
+      "Monarchy",
+      "17th Century"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-002",
+    "title": "The English Revolution II: Civil War Begins",
+    "release_date": "2013-09-22",
+    "summary": "Describes the outbreak of the English Civil War, with Royalists and Parliamentarians facing off for the future of the nation.",
+    "series": "Season 1",
+    "length": "28 min",
+    "utterances": [
+      "The first shots divided an already fractious society.",
+      "Country and town allegiances seeded the conflict.",
+      "Early victories ebbed and flowed without clear winner."
+    ],
+    "transcript": "Duncan traces the war’s initial battles, alliances, and shifting fortunes.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/09/episode-2.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Civil War",
+      "Royalists",
+      "Parliamentarians",
+      "Battles"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-003",
+    "title": "The English Revolution III: Trial and Execution",
+    "release_date": "2013-09-29",
+    "summary": "Examines the trial of Charles I, his execution, and the unprecedented abolition of the monarchy.",
+    "series": "Season 1",
+    "length": "31 min",
+    "utterances": [
+      "The king’s trial was a world first.",
+      "Regicide shocked Europe and ended centuries of tradition.",
+      "England stumbled into republicanism."
+    ],
+    "transcript": "Details events leading to the execution, the ripple effects on Europe, and the radical short-lived English Republic.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/09/episode-3.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Charles I",
+      "Execution",
+      "Republic",
+      "Regicide"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-004",
+    "title": "The English Revolution IV: Cromwell’s Republic",
+    "release_date": "2013-10-06",
+    "summary": "Describes the experiment of republican government under Oliver Cromwell and how it unraveled.",
+    "series": "Season 1",
+    "length": "27 min",
+    "utterances": [
+      "Puritan governance left little room for dissent.",
+      "Cromwell’s victories couldn’t solve all England’s ills.",
+      "Republican dreams dissolved back into monarchy."
+    ],
+    "transcript": "Focuses on the rise and fall of Cromwell, and the restoration of monarchy after his death.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/10/episode-4.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Cromwell",
+      "Republic",
+      "Puritan",
+      "Restoration"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-005",
+    "title": "Prelude to the American Revolution",
+    "release_date": "2013-10-13",
+    "summary": "Shifts focus to colonial America—reviewing the social, political, and economic forces that set the stage for rebellion.",
+    "series": "Season 2",
+    "length": "33 min",
+    "utterances": [
+      "Colonial grievances built over years.",
+      "The Seven Years' War created debt—and new taxes.",
+      "British policy set the stage for revolutionary thought."
+    ],
+    "transcript": "Duncan transitions from England to the American colonies, explaining why rebellion fermented.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/10/episode-5.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "American Revolution",
+      "Colonies",
+      "Britain",
+      "Taxes"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-006",
+    "title": "The Road to Independence",
+    "release_date": "2013-10-20",
+    "summary": "Traces the escalation from protests and pamphlets to first open acts of war against Britain.",
+    "series": "Season 2",
+    "length": "32 min",
+    "utterances": [
+      "No taxation without representation became a rally cry.",
+      "Boston became the heart of resistance.",
+      "Armed conflict was not inevitable—until it was."
+    ],
+    "transcript": "Outlines major milestones: Stamp Act, Boston Tea Party, and moves toward formal rebellion.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/10/episode-6.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Colonial Protest",
+      "Boston",
+      "Rebellion",
+      "Acts"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-007",
+    "title": "Lexington to Yorktown",
+    "release_date": "2013-10-27",
+    "summary": "Describes the military course of the American Revolution, the alliances, key figures, and shifting fortunes of war.",
+    "series": "Season 2",
+    "length": "31 min",
+    "utterances": [
+      "Minutemen became legends after Lexington.",
+      "Washington’s leadership developed by trial and error.",
+      "French help was a turning point."
+    ],
+    "transcript": "Analyzes key battles, leaders, and the often-overlooked complexities of revolutionary strategy.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/10/episode-7.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Lexington",
+      "Yorktown",
+      "Washington",
+      "France"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-008",
+    "title": "Building the American Republic",
+    "release_date": "2013-11-03",
+    "summary": "Examines the drafting of founding documents and the challenges of uniting the new nation post-independence.",
+    "series": "Season 2",
+    "length": "30 min",
+    "utterances": [
+      "The Articles of Confederation created more problems than they solved.",
+      "Compromise built the Constitution’s foundations.",
+      "Revolution forced Americans to rethink power."
+    ],
+    "transcript": "Focuses on Constitutional debates and early test cases for the new republic.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/11/episode-8.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Republic",
+      "Constitution",
+      "Confederation",
+      "Founders"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-009",
+    "title": "Prelude to the French Revolution",
+    "release_date": "2013-11-10",
+    "summary": "Surveys 18th-century France—financial crises, class differences, and the Enlightenment’s impact on revolutionary thinking.",
+    "series": "Season 3",
+    "length": "34 min",
+    "utterances": [
+      "Bourbon monarchy faced growing debts and unrest.",
+      "Philosophers stirred political change.",
+      "Revolution was more likely than anyone realized."
+    ],
+    "transcript": "Sets the stage for social and political explosion in pre-revolutionary France.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/11/episode-9.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "French Revolution",
+      "Enlightenment",
+      "France",
+      "Bourbons"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-010",
+    "title": "The Estates-General and the Storming of the Bastille",
+    "release_date": "2013-11-17",
+    "summary": "Recounts the summoning of the Estates-General and the dramatic opening attacks that sparked the French Revolution.",
+    "series": "Season 3",
+    "length": "34 min",
+    "utterances": [
+      "The Bastille fell in a single, symbolic day.",
+      "Political chaos followed quickly.",
+      "Revolutionary fever spread through Paris."
+    ],
+    "transcript": "Highlights the iconic opening moments and immediate consequences for French society.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/11/episode-10.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Estates-General",
+      "Bastille",
+      "Paris",
+      "Revolution"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-011",
+    "title": "Declaration of the Rights of Man",
+    "release_date": "2013-11-24",
+    "summary": "Focuses on the drafting, meaning, and global legacy of the Declaration of the Rights of Man and Citizen.",
+    "series": "Season 3",
+    "length": "31 min",
+    "utterances": [
+      "The Rights of Man changed world politics.",
+      "Its writers drew heavily on Enlightenment ideas.",
+      "Contradictions appeared almost immediately."
+    ],
+    "transcript": "Describes debates in the National Assembly and early tensions in guaranteeing rights in practice.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/11/episode-11.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Declaration",
+      "Rights",
+      "Assembly",
+      "Enlightenment"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-012",
+    "title": "Flight to Varennes: The King Runs",
+    "release_date": "2013-12-01",
+    "summary": "Describes Louis XVI’s failed escape attempt, and how it radicalized the revolution.",
+    "series": "Season 3",
+    "length": "30 min",
+    "utterances": [
+      "The king’s flight destroyed royalist credibility.",
+      "Paris’ population felt newly empowered.",
+      "The shift to radicalism was now inevitable."
+    ],
+    "transcript": "Explores the fallout from the king’s desertion and increased demands for a republic.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/12/episode-12.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Flight to Varennes",
+      "Louis XVI",
+      "Radical",
+      "Republic"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-013",
+    "title": "1792: War and the Monarchy’s Collapse",
+    "release_date": "2013-12-08",
+    "summary": "Reviews the wars with Austria and Prussia, the dethroning of Louis XVI, and the events leading to the Republic’s proclamation.",
+    "series": "Season 3",
+    "length": "32 min",
+    "utterances": [
+      "Foreign threats unified France—then radicalized it.",
+      "The king was deposed as enemies closed in.",
+      "Revolution spread beyond Paris."
+    ],
+    "transcript": "Examines military and street fighting that forced the monarchy’s end.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/12/episode-13.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "1792",
+      "War",
+      "Louis XVI",
+      "Revolution"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-014",
+    "title": "Reign of Terror",
+    "release_date": "2013-12-15",
+    "summary": "Analyzes Robespierre’s rise, the guillotine’s reign, and how revolutionary paranoia spiraled into mass executions.",
+    "series": "Season 3",
+    "length": "31 min",
+    "utterances": [
+      "The guillotine became a symbol of the revolution.",
+      "Robespierre’s vision morphed into terror.",
+      "Fear consumed both friend and foe alike."
+    ],
+    "transcript": "Highlights revolutionary tribunals, shifting leadership, and cultural ramifications of the Terror.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/12/episode-14.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Robespierre",
+      "Terror",
+      "Guillotine",
+      "Executions"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-015",
+    "title": "The Directory: From Chaos to Napoleon",
+    "release_date": "2013-12-22",
+    "summary": "Explains how post-Terror French government tried to establish stability, and how rising general Napoleon took power.",
+    "series": "Season 3",
+    "length": "34 min",
+    "utterances": [
+      "Post-Terror France was as unstable as ever.",
+      "Corruption and coups dominated the Directory.",
+      "Napoleon’s ascent was stealthy—and sudden."
+    ],
+    "transcript": "Duncan details the political chaos, failed reforms, and the constitutional changes that set the stage for Napoleonic France.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/12/episode-15.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Directory",
+      "Napoleon",
+      "Stability",
+      "Corruption"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-016",
+    "title": "Haitian Revolution: Slaves and Empire",
+    "release_date": "2013-12-29",
+    "summary": "Turns to the world-changing Haitian Revolution, focusing on the impact of slaves, planters, and French empire.",
+    "series": "Season 4",
+    "length": "36 min",
+    "utterances": [
+      "Saint-Domingue became the world’s most brutal and lucrative colony.",
+      "Free people of color played pivotal roles.",
+      "Slave uprising changed the continent’s fate."
+    ],
+    "transcript": "Unpacks the economic, social, and global context of the only successful slave revolt in modern history.",
+    "transcript_link": "https://www.revolutionspodcast.com/2013/12/episode-16.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Haitian Revolution",
+      "Slavery",
+      "Empire",
+      "Uprising"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-017",
+    "title": "Toussaint Louverture: Hero and Rebel",
+    "release_date": "2014-01-05",
+    "summary": "Focuses on Toussaint Louverture, who steered the Haitian Revolution into a global force.",
+    "series": "Season 4",
+    "length": "35 min",
+    "utterances": [
+      "Toussaint turned slavery upside down.",
+      "The revolution’s leaders were complex and divided.",
+      "European powers underestimated him at their peril."
+    ],
+    "transcript": "Covers Toussaint’s early rise, diplomatic genius, military victories, and the beginning of the republic.",
+    "transcript_link": "https://www.revolutionspodcast.com/2014/01/episode-17.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Toussaint",
+      "Haiti",
+      "Rebel",
+      "Revolutionary"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-018",
+    "title": "Haiti’s Fight for Independence",
+    "release_date": "2014-01-12",
+    "summary": "Covers battles against France, Britain, and internal rivals, leading to the proclamation of Haiti as a free republic.",
+    "series": "Season 4",
+    "length": "36 min",
+    "utterances": [
+      "Foreign invaders threatened the fragile new nation.",
+      "The revolutionaries’ unity was always shaky.",
+      "Haiti’s independence set a precedent for the Americas."
+    ],
+    "transcript": "Details the final campaigns, independence, and Haiti’s place in world history.",
+    "transcript_link": "https://www.revolutionspodcast.com/2014/01/episode-18.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Haiti",
+      "Independence",
+      "Campaigns",
+      "Republic"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-019",
+    "title": "Prelude to the Spanish American Wars",
+    "release_date": "2014-01-19",
+    "summary": "Switches to Latin America—the colonial structures, social hierarchies, and new ideas that bred rebellion.",
+    "series": "Season 5",
+    "length": "32 min",
+    "utterances": [
+      "Spanish colonies were boiling with tension.",
+      "The success of Haiti and the US inspired change.",
+      "Creoles looked for their own place in history."
+    ],
+    "transcript": "Reveals the broad context, international politics, and why Spanish America was ripe for revolution.",
+    "transcript_link": "https://www.revolutionspodcast.com/2014/01/episode-19.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Spanish America",
+      "Colonies",
+      "Creoles",
+      "Wars"
+    ]
+  },
+  {
+    "episode_id": "REVOLUTIONS-020",
+    "title": "Bolívar and the Liberators",
+    "release_date": "2014-01-26",
+    "summary": "Introduces Simón Bolívar and other key leaders, explaining how the Latin American revolutions began.",
+    "series": "Season 5",
+    "length": "30 min",
+    "utterances": [
+      "Bolívar was as much myth as man.",
+      "Liberation swept across the continent in waves.",
+      "No single revolution fits the Latin American template."
+    ],
+    "transcript": "First battles, alliances, and how disparate movements moved toward a common goal.",
+    "transcript_link": "https://www.revolutionspodcast.com/2014/01/episode-20.html",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/revolutions/id703889772",
+    "topics": [
+      "Bolívar",
+      "Liberators",
+      "Latin America",
+      "Revolutions"
+    ]
+  }
+]

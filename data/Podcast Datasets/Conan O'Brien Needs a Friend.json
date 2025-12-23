@@ -1,0 +1,537 @@
+[
+  {
+    "episode_id": "CONAN-001",
+    "title": "Will Ferrell",
+    "release_date": "2018-11-19",
+    "summary": "Will Ferrell and Conan riff on absurdity, their SNL days, and failed bits—all with warmth and relentless punchlines.",
+    "series": "Season 1",
+    "length": "62 min",
+    "utterances": [
+      "Will’s weirdness is contagious.",
+      "SNL stories and host embarrassments.",
+      "Their chemistry sets the tone for the series."
+    ],
+    "transcript": "Conan and Will drop classic sketches, improvise new bits, and share real friendship moments.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/will-ferrell",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": [
+      "Comedy",
+      "SNL",
+      "Improv",
+      "Friendship"
+    ]
+  },
+  {
+    "episode_id": "CONAN-002",
+    "title": "Tom Hanks",
+    "release_date": "2018-11-26",
+    "summary": "Tom Hanks brings stories of stardom, pranks, and kindness, balancing genuine insight with running jokes.",
+    "series": "Season 1",
+    "length": "61 min",
+    "utterances": [
+      "Conan can’t believe Hanks’ humility is real.",
+      "Prank stories, movie chaos, and sincerity collide.",
+      "Conan invents imaginary awards shows."
+    ],
+    "transcript": "A friendship blossoms in real time, with self-mockery and warmth.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/tom-hanks",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": [
+      "Movie Stars",
+      "Friendship",
+      "Pranks",
+      "Comedy"
+    ]
+  },
+  {
+    "episode_id": "CONAN-003",
+    "title": "Adam Sandler",
+    "release_date": "2018-12-03",
+    "summary": "Adam Sandler and Conan laugh about SNL, bad movies, and life’s random turns.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Sandler’s self-deprecation is legendary.",
+      "Their jokes about failure and fame are highlights.",
+      "Conan improvises song parodies live."
+    ],
+    "transcript": "Old friends, new stories—music, movies, and pure improv.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/adam-sandler",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": [
+      "Comedy",
+      "Movies",
+      "SNL",
+      "Music"
+    ]
+  },
+  {
+    "episode_id": "CONAN-004",
+    "title": "Wanda Sykes",
+    "release_date": "2018-12-10",
+    "summary": "Wanda Sykes and Conan spar with sarcasm, riff on race, and tear down Hollywood stereotypes.",
+    "series": "Season 1",
+    "length": "64 min",
+    "utterances": [
+      "Sykes’ sharp wit keeps Conan on edge.",
+      "Hollywood absurdities, handled with humor.",
+      "Riffs on being women in late-night TV."
+    ],
+    "transcript": "Fast-moving, insightful, and biting, with social commentary that lands punchlines.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/wanda-sykes",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": [
+      "Comedy",
+      "Sarcasm",
+      "Hollywood",
+      "Late Night"
+    ]
+  },
+  {
+    "episode_id": "CONAN-005",
+    "title": "Nick Offerman & Megan Mullally",
+    "release_date": "2018-12-17",
+    "summary": "Conan and comedy couple Nick & Megan riff on marriage, sitcoms, and the joy of oversharing.",
+    "series": "Season 1",
+    "length": "66 min",
+    "utterances": [
+      "Marital jokes and double entendres fly.",
+      "Sitcom oddities and real-life chemistry.",
+      "Offerman’s deadpan delivery is gold."
+    ],
+    "transcript": "Relaxed, silly, and surprisingly intimate.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/nick-offerman-megan-mullally",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": [
+      "Marriage",
+      "Sitcoms",
+      "Oversharing",
+      "Couples"
+    ]
+  },
+  {
+    "episode_id": "CONAN-006",
+    "title": "Aubrey Plaza",
+    "release_date": "2019-01-07",
+    "summary": "A hilarious episode with candid stories, sly improv, and relentless banter.",
+    "series": "Season 1",
+    "length": "66 min",
+    "utterances": [
+      "Aubrey brings the deadpan.",
+      "Surprises with improv challenges.",
+      "Offbeat fan questions addressed."
+    ],
+    "transcript": "Fast-paced riffing, hidden pranks, and absurd life advice from Plaza and Conan.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/aubrey-plaza",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Comedy", "Improv", "Hollywood"]
+  },
+  {
+    "episode_id": "CONAN-007",
+    "title": "Steve Carell",
+    "release_date": "2019-01-14",
+    "summary": "Stories of The Office, improv roots, and genuine career advice.",
+    "series": "Season 1",
+    "length": "68 min",
+    "utterances": [
+      "Steve recalls embarrassing auditions.",
+      "Laughter therapy with Conan.",
+      "Fan interactions go off the rails."
+    ],
+    "transcript": "Carell and Conan riff on sitcom culture, improv, and DIY comedy techniques.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/steve-carell",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sitcoms", "Interviews", "SNL"]
+  },
+  {
+    "episode_id": "CONAN-008",
+    "title": "Maya Rudolph",
+    "release_date": "2019-01-21",
+    "summary": "Voice acting games, music riffs, and memories of SNL.",
+    "series": "Season 1",
+    "length": "70 min",
+    "utterances": [
+      "Maya plays with impressions.",
+      "Music improv with Conan.",
+      "Lessons from late-night TV."
+    ],
+    "transcript": "Big musical numbers, outrageous sketches, and honesty about success.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/maya-rudolph",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Friendship", "Movies", "Late Night"]
+  },
+  {
+    "episode_id": "CONAN-009",
+    "title": "Bill Burr",
+    "release_date": "2019-01-28",
+    "summary": "Burr's rants meet Conan's sarcasm in explosive comedy segments.",
+    "series": "Season 1",
+    "length": "63 min",
+    "utterances": [
+      "Sports, pets, comedy science.",
+      "Unfiltered opinion showdown.",
+      "Live Q&A chaos."
+    ],
+    "transcript": "Hot takes abound, audience challenges, and professional roasting sessions.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/bill-burr",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Family", "Banter", "Standup"]
+  },
+  {
+    "episode_id": "CONAN-010",
+    "title": "Tina Fey",
+    "release_date": "2019-02-04",
+    "summary": "Intellectual humor with rapid-fire sketch ideas and feminist banter.",
+    "series": "Season 1",
+    "length": "69 min",
+    "utterances": [
+      "Sitcom writers' room simulation.",
+      "Social media punchlines.",
+      "Life lessons and late-night giggles."
+    ],
+    "transcript": "Conan and Tina discuss leadership, creativity, and the importance of laughing at yourself.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/tina-fey",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sketch", "Career", "Authenticity"]
+  },
+  {
+    "episode_id": "CONAN-011",
+    "title": "Dax Shepard",
+    "release_date": "2019-02-11",
+    "summary": "Podcast crossovers, adventure tales, and heartfelt advice.",
+    "series": "Season 1",
+    "length": "64 min",
+    "utterances": [
+      "Car mishaps and travel fails.",
+      "Host therapy sessions.",
+      "Podcasting secrets revealed."
+    ],
+    "transcript": "Dax shares parenting stories, Conan tells behind-the-scenes tales, and both riff on life.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/dax-shepard",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Comedy", "Improv", "Hollywood"]
+  },
+  {
+    "episode_id": "CONAN-012",
+    "title": "Kristen Wiig",
+    "release_date": "2019-02-18",
+    "summary": "Absurd characters, improv games, and heartfelt career stories.",
+    "series": "Season 1",
+    "length": "65 min",
+    "utterances": [
+      "Kristen's abandoned SNL sketches.",
+      "Family drama reimagined as sitcom.",
+      "Movie pranks and bloopers."
+    ],
+    "transcript": "Kristen and Conan dive into the art of creating laughter from real life.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/kristen-wiig",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sitcoms", "Interviews", "SNL"]
+  },
+  {
+    "episode_id": "CONAN-013",
+    "title": "Paul Rudd",
+    "release_date": "2019-02-25",
+    "summary": "Conan and Paul joke about Marvel, all things aging, and risks on set.",
+    "series": "Season 1",
+    "length": "61 min",
+    "utterances": [
+      "Conan discovers why Paul never ages.",
+      "Superhero audition comedy.",
+      "Outrageous failed bits."
+    ],
+    "transcript": "Running gags about pranks, Marvel myths, and movie gaffes.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/paul-rudd",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Friendship", "Movies", "Late Night"]
+  },
+  {
+    "episode_id": "CONAN-014",
+    "title": "Jack Black",
+    "release_date": "2019-03-04",
+    "summary": "Physical comedy, music improv, and wild fan interactions define the hour.",
+    "series": "Season 1",
+    "length": "68 min",
+    "utterances": [
+      "Tenacious D parody.",
+      "Movie and rock mishaps.",
+      "Improvised theme songs."
+    ],
+    "transcript": "Jack and Conan push the limits of improv, stunts, and music skits.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/jack-black",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sketch", "Career", "Authenticity"]
+  },
+  {
+    "episode_id": "CONAN-015",
+    "title": "Julia Louis-Dreyfus",
+    "release_date": "2019-03-11",
+    "summary": "Nostalgia, empowerment, and sitcom high jinks.",
+    "series": "Season 1",
+    "length": "72 min",
+    "utterances": [
+      "Seinfeld secrets.",
+      "Women in comedy.",
+      "Growing older in public."
+    ],
+    "transcript": "Classic anecdotes meet empowering stories and late-night punchlines.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/julia-louis-dreyfus",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Comedy", "Improv", "Hollywood"]
+  },
+  {
+    "episode_id": "CONAN-016",
+    "title": "Kenan Thompson",
+    "release_date": "2019-03-18",
+    "summary": "SNL impressions, failed sketches, and childhood memories with Conan.",
+    "series": "Season 1",
+    "length": "75 min",
+    "utterances": [
+      "Impression battles.",
+      "Live TV panic and recovery.",
+      "Comedy chaos at its best."
+    ],
+    "transcript": "Kenan and Conan swap inside showbiz stories, joke about nerves, and riff on improv.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/kenan-thompson",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sitcoms", "Interviews", "SNL"]
+  },
+  {
+    "episode_id": "CONAN-017",
+    "title": "John Mulaney",
+    "release_date": "2019-03-25",
+    "summary": "Comedy writing, stand-up stories, and mentorship.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Comedy drafts and rewrites.",
+      "Advice on working in late night.",
+      "Rapid-fire storytelling."
+    ],
+    "transcript": "John and Conan discuss writing jokes, evolving routines, and the importance of mentors.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/john-mulaney",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Friendship", "Movies", "Late Night"]
+  },
+  {
+    "episode_id": "CONAN-018",
+    "title": "Melissa McCarthy",
+    "release_date": "2019-04-01",
+    "summary": "Improv and audition mishaps; laughter as the best medicine.",
+    "series": "Season 1",
+    "length": "74 min",
+    "utterances": [
+      "Audition horror stories.",
+      "Women in comedy and perseverance.",
+      "Slapstick meets sincerity."
+    ],
+    "transcript": "Unscripted wisdom, heartfelt honesty, and slapstick hijinks.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/melissa-mccarthy",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sketch", "Career", "Authenticity"]
+  },
+  {
+    "episode_id": "CONAN-019",
+    "title": "Keegan-Michael Key",
+    "release_date": "2019-04-08",
+    "summary": "Lively improv, sketch rewrites, and all-out character comedy.",
+    "series": "Season 1",
+    "length": "65 min",
+    "utterances": [
+      "Improv workouts and celebrity encounters.",
+      "Sketch comedy advice.",
+      "Favorite characters revisited."
+    ],
+    "transcript": "Keegan and Conan challenge each other to one-liners, improv, and sketch retellings.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/keegan-michael-key",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sitcoms", "Interviews", "SNL"]
+  },
+  {
+    "episode_id": "CONAN-020",
+    "title": "Seth Meyers",
+    "release_date": "2019-04-15",
+    "summary": "Late-night lessons, comedy evolution, and pop culture riffs.",
+    "series": "Season 1",
+    "length": "60 min",
+    "utterances": [
+      "Hosting tips for awkward moments.",
+      "Comedy writing and staff stories.",
+      "Strange fan letters."
+    ],
+    "transcript": "Meyers and Conan swap hosting hacks and behind-the-scenes stories.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/seth-meyers",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Family", "Banter", "Standup"]
+  },
+  {
+    "episode_id": "CONAN-021",
+    "title": "Andy Samberg",
+    "release_date": "2019-04-22",
+    "summary": "Lonely Island flashbacks, viral video pranks, and creative partnerships.",
+    "series": "Season 1",
+    "length": "67 min",
+    "utterances": [
+      "Musical comedy history.",
+      "YouTube stunts and pranks.",
+      "Bizarre celebrity encounters."
+    ],
+    "transcript": "Andy and Conan discuss the evolution of comedy in the internet age.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/andy-samberg",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Comedy", "Improv", "Hollywood"]
+  },
+  {
+    "episode_id": "CONAN-022",
+    "title": "Will Arnett",
+    "release_date": "2019-04-29",
+    "summary": "Animated comedy tales, podcast crossovers, and improv challenges.",
+    "series": "Season 1",
+    "length": "64 min",
+    "utterances": [
+      "Voice acting impressions.",
+      "Podcasting mashups.",
+      "Fan-submitted improv games."
+    ],
+    "transcript": "Arnett and Conan riff on podcast culture and cartoon fame.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/will-arnett",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sketch", "Career", "Authenticity"]
+  },
+  {
+    "episode_id": "CONAN-023",
+    "title": "Amy Poehler",
+    "release_date": "2019-05-06",
+    "summary": "Relentless banter, Parks & Rec stories, and organizing awkward parties.",
+    "series": "Season 1",
+    "length": "62 min",
+    "utterances": [
+      "Improvised fan Q&A.",
+      "Clueless boss riffs.",
+      "Legendary live moments."
+    ],
+    "transcript": "Poehler and Conan reminisce about sitcom culture and joke about creative chaos.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/amy-poehler",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sitcoms", "Interviews", "SNL"]
+  },
+  {
+    "episode_id": "CONAN-024",
+    "title": "Kate McKinnon",
+    "release_date": "2019-05-13",
+    "summary": "Character work, SNL breaks, and comedy as self-care.",
+    "series": "Season 1",
+    "length": "59 min",
+    "utterances": [
+      "Characters weird and wild.",
+      "Sketches gone awry.",
+      "Comedy as therapy for performers."
+    ],
+    "transcript": "McKinnon and Conan dig into impressions, sketch disasters, and comic vulnerability.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/kate-mckinnon",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sketch", "Career", "Authenticity"]
+  },
+  {
+    "episode_id": "CONAN-025",
+    "title": "Fred Armisen",
+    "release_date": "2019-05-20",
+    "summary": "Music-meets-comedy hour, Portlandia history, and travel improv.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Conan and Fred invent new music genres.",
+      "Sketches about foreign travel.",
+      "Behind-the-scenes anecdotes."
+    ],
+    "transcript": "Armisen and Conan blend music, improv, and world travel stories in a high-energy show.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/fred-armisen",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Comedy", "Improv", "Hollywood"]
+  },
+  {
+    "episode_id": "CONAN-026",
+    "title": "Rachel Dratch",
+    "release_date": "2019-05-27",
+    "summary": "Improvisation games, Broadway legends, and ridiculous celebrity stories.",
+    "series": "Season 1",
+    "length": "61 min",
+    "utterances": [
+      "Dratch’s classic sketches retold.",
+      "Musical improv segments.",
+      "Life lessons from Broadway."
+    ],
+    "transcript": "Rachel and Conan dig into improv, theater, and the art of losing yourself on stage.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/rachel-dratch",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Family", "Banter", "Standup"]
+  },
+  {
+    "episode_id": "CONAN-027",
+    "title": "Nasim Pedrad",
+    "release_date": "2019-06-03",
+    "summary": "Comedy roots, cultural stories, and improv with Conan.",
+    "series": "Season 1",
+    "length": "67 min",
+    "utterances": [
+      "Multicultural improv riffs.",
+      "Comedy about childhood.",
+      "Fast-paced cultural lessons."
+    ],
+    "transcript": "Nasim and Conan explore the intersections of comedy, culture, and family.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/nasim-pedrad",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sketch", "Career", "Authenticity"]
+  },
+  {
+    "episode_id": "CONAN-028",
+    "title": "Jason Sudeikis",
+    "release_date": "2019-06-10",
+    "summary": "Improvised sporting events, Ted Lasso jokes, and life advice.",
+    "series": "Season 1",
+    "length": "70 min",
+    "utterances": [
+      "Sports-based improv challenges.",
+      "Behind-the-scenes coaching tales.",
+      "Comedy meets real-life mentorship."
+    ],
+    "transcript": "Sudeikis and Conan joke about mentorship, improv, and fandom in sports.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/jason-sudeikis",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Friendship", "Movies", "Late Night"]
+  },
+  {
+    "episode_id": "CONAN-029",
+    "title": "David Spade",
+    "release_date": "2019-06-17",
+    "summary": "SNL pranks, movie mishaps, and roast battles.",
+    "series": "Season 1",
+    "length": "58 min",
+    "utterances": [
+      "Legendary roasts with Conan.",
+      "Surprise prank reminiscences.",
+      "The cost of endless self-deprecating humor."
+    ],
+    "transcript": "Spade and Conan roast each other, share wild stories, and discuss the fun of being underestimated.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/david-spade",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Comedy", "Improv", "Hollywood"]
+  },
+  {
+    "episode_id": "CONAN-030",
+    "title": "Vanessa Bayer",
+    "release_date": "2019-06-24",
+    "summary": "Sketch comedies, SNL memories, and family life stories.",
+    "series": "Season 1",
+    "length": "68 min",
+    "utterances": [
+      "Best of sketch comedy.",
+      "Unscripted childhood stories.",
+      "Handling fame and family."
+    ],
+    "transcript": "Bayer and Conan riff on career milestones, family quirks, and building comedy from everyday life.",
+    "transcript_link": "https://www.teamcoco.com/podcasts/episode/vanessa-bayer",
+    "audio_link": "https://podcasts.apple.com/gb/podcast/conan-obrien-needs-a-friend/id1438054347",
+    "topics": ["Sketch", "Career", "Authenticity"]
+  }
+]

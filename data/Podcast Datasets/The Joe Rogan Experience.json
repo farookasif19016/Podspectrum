@@ -1,0 +1,442 @@
+[
+  {
+    "episode_id": "JRE-001",
+    "title": "Brian Redban",
+    "release_date": "2009-12-24",
+    "summary": "Joe Rogan and co-host Brian Redban introduce the show in an unscripted, wide-ranging chat with offbeat humor.",
+    "series": "Season 1",
+    "length": "120 min",
+    "utterances": [
+      "No rules, just long-form banter.",
+      "Early days, laughing at technical difficulties.",
+      "Brian's wild stories kick things off."
+    ],
+    "transcript": "Joe and Brian riff on life, podcast plans, and odd news. Format-free and relaxed.",
+    "transcript_link": "https://www.joerogan.com/episodes/brian-redban",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Comedy",
+      "Podcasting",
+      "Stories",
+      "Friendship"
+    ]
+  },
+  {
+    "episode_id": "JRE-002",
+    "title": "Ari Shaffir",
+    "release_date": "2010-01-06",
+    "summary": "Standup comic Ari Shaffir joins Joe for irreverent conversation on comedy gigs, drugs, and creative inspiration.",
+    "series": "Season 1",
+    "length": "125 min",
+    "utterances": [
+      "Ari jokes about travel disasters.",
+      "Mushroom stories: both hilarious and weird.",
+      "Standup is the backbone of the show."
+    ],
+    "transcript": "Raw, spontaneous banter—plus tales from open mics and touring.",
+    "transcript_link": "https://www.joerogan.com/episodes/ari-shaffir",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Standup",
+      "Drugs",
+      "Comedy",
+      "Travel"
+    ]
+  },
+  {
+    "episode_id": "JRE-003",
+    "title": "Duncan Trussell",
+    "release_date": "2010-01-13",
+    "summary": "Joe and Duncan Trussell riff on psychedelics, spirituality, and absurd life moments—the start of recurring improv bits.",
+    "series": "Season 1",
+    "length": "130 min",
+    "utterances": [
+      "Trussell brings weird energy to every episode.",
+      "Joe’s philosophy tangents meet surreal improv.",
+      "Comedy flows with big laughs and digressions."
+    ],
+    "transcript": "Psychedelic experiences mix with comic storytelling and philosophical speculation.",
+    "transcript_link": "https://www.joerogan.com/episodes/duncan-trussell",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Psychedelics",
+      "Improv",
+      "Philosophy",
+      "Comedy"
+    ]
+  },
+  {
+    "episode_id": "JRE-004",
+    "title": "Tom Segura",
+    "release_date": "2010-01-20",
+    "summary": "Joe is joined by Tom Segura to talk good and bad gigs, the art of crowd work, and behind-the-scenes standup.",
+    "series": "Season 1",
+    "length": "110 min",
+    "utterances": [
+      "Segura trades road stories and show mishaps.",
+      "Comedy nerd talk runs deep.",
+      "Podcast gains momentum with running gags."
+    ],
+    "transcript": "Tom and Joe swap club stories, dissecting what works and bombing on stage.",
+    "transcript_link": "https://www.joerogan.com/episodes/tom-segura",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Standup",
+      "Crowd Work",
+      "Comedy",
+      "Clubs"
+    ]
+  },
+  {
+    "episode_id": "JRE-005",
+    "title": "Joey Diaz",
+    "release_date": "2010-01-27",
+    "summary": "Joe hosts Joey ‘Coco’ Diaz in a wild episode filled with outrageous life stories and raw, no-filter humor.",
+    "series": "Season 1",
+    "length": "125 min",
+    "utterances": [
+      "Diaz’s rants are a highlight of the podcast.",
+      "Unfiltered street tales meet philosophical riffing.",
+      "Comedic timing keeps listeners hooked."
+    ],
+    "transcript": "Joey opens up about bad gigs, jail time, and decades in the comedy trenches.",
+    "transcript_link": "https://www.joerogan.com/episodes/joey-diaz",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Comedy",
+      "Street Stories",
+      "Timing",
+      "Life Lessons"
+    ]
+  },
+  {
+    "episode_id": "JRE-006",
+    "title": "Bill Burr",
+    "release_date": "2010-02-03",
+    "summary": "Comedian Bill Burr and Joe riff about anger in comedy, the politics of offense, and awkward gigs across America.",
+    "series": "Season 1",
+    "length": "117 min",
+    "utterances": [
+      "Burr’s rants are infamous for a reason.",
+      "What’s funny vs. what’s taboo—unfiltered.",
+      "Joe and Bill trade road jokes and critique club culture."
+    ],
+    "transcript": "A classic pairing: sharp comedic insights and unscripted rants that would become a recurring podcast theme.",
+    "transcript_link": "https://www.joerogan.com/episodes/bill-burr",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Comedy",
+      "Offense",
+      "Anger",
+      "Clubs"
+    ]
+  },
+  {
+    "episode_id": "JRE-007",
+    "title": "Tom Papa",
+    "release_date": "2010-02-10",
+    "summary": "Tom and Joe talk about family, food obsessions, and how podcasts give comics a new life.",
+    "series": "Season 1",
+    "length": "102 min",
+    "utterances": [
+      "Papa’s food jokes break up the tension.",
+      "Does podcasting fix the standup grind?",
+      "Plenty of classic dad jokes and therapy talk."
+    ],
+    "transcript": "Lots of laughter at parenting stories, podcasting philosophy, and the live comedy grind.",
+    "transcript_link": "https://www.joerogan.com/episodes/tom-papa",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Family",
+      "Food",
+      "Parenting",
+      "Comedy"
+    ]
+  },
+  {
+    "episode_id": "JRE-008",
+    "title": "Marc Maron",
+    "release_date": "2010-02-17",
+    "summary": "WTF podcaster Marc Maron reflects with Joe on addiction, career burnout, and the therapy found in microphones.",
+    "series": "Season 1",
+    "length": "120 min",
+    "utterances": [
+      "Maron’s honesty about failure resonates.",
+      "Podcasting as therapy is a recurring theme.",
+      "Old beefs and new acceptance."
+    ],
+    "transcript": "Confessional tone as they swap backstage stories and the mental health side of comedy.",
+    "transcript_link": "https://www.joerogan.com/episodes/marc-maron",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Podcasting",
+      "Confession",
+      "Addiction",
+      "Comedy"
+    ]
+  },
+  {
+    "episode_id": "JRE-009",
+    "title": "Whitney Cummings",
+    "release_date": "2010-02-24",
+    "summary": "Whitney and Joe joke about relationships, sexism in clubs, and the weirdness of TV writing.",
+    "series": "Season 1",
+    "length": "104 min",
+    "utterances": [
+      "Gender angle: sexism in green rooms gets laughs.",
+      "Unfiltered banter on fame and dating.",
+      "TV show myths and sitcom truths."
+    ],
+    "transcript": "Sharp, unapologetic humor cuts through industry myths and real challenges for female comics.",
+    "transcript_link": "https://www.joerogan.com/episodes/whitney-cummings",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Women",
+      "Clubs",
+      "TV Writing",
+      "Comedy"
+    ]
+  },
+  {
+    "episode_id": "JRE-010",
+    "title": "Doug Stanhope",
+    "release_date": "2010-03-03",
+    "summary": "No-holds-barred episode with Doug Stanhope on free speech, hecklers, and the dark comedy that earns cult fans.",
+    "series": "Season 1",
+    "length": "135 min",
+    "utterances": [
+      "Stanhope brings gallows humor to every topic.",
+      "Heckler stories and chaos on stage.",
+      "Comedy that crosses moral boundaries."
+    ],
+    "transcript": "Total freedom of speech, taboo topics, and the difference between shock and wit.",
+    "transcript_link": "https://www.joerogan.com/episodes/doug-stanhope",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Gallows Humor",
+      "Free Speech",
+      "Hecklers",
+      "Taboo"
+    ]
+  },
+  {
+    "episode_id": "JRE-011",
+    "title": "Greg Fitzsimmons",
+    "release_date": "2010-03-10",
+    "summary": "Greg and Joe cover the highs and lows of club comedy, opening acts, and dealing with creative egos.",
+    "series": "Season 1",
+    "length": "100 min",
+    "utterances": [
+      "Fitzsimmons on opening for legends.",
+      "Comedy business vs. artistic joy.",
+      "Handling hecklers and bad crowds."
+    ],
+    "transcript": "Inside baseball for comics—full of stories, strategies, and classic showbiz advice.",
+    "transcript_link": "https://www.joerogan.com/episodes/greg-fitzsimmons",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Comedy Clubs",
+      "Openers",
+      "Careers",
+      "Advice"
+    ]
+  },
+  {
+    "episode_id": "JRE-012",
+    "title": "Bert Kreischer",
+    "release_date": "2010-03-17",
+    "summary": "From wild stories to heart, Kreischer's first episode is all party, with unexpected sincerity on family life.",
+    "series": "Season 1",
+    "length": "112 min",
+    "utterances": [
+      "Drinking tales, travel, and family.",
+      "The origin of 'The Machine.'",
+      "When comedy meets real vulnerability."
+    ],
+    "transcript": "Bert mixes debauchery, parenting, and philosophy in a trademark comedy blend.",
+    "transcript_link": "https://www.joerogan.com/episodes/bert-kreischer",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Storytelling",
+      "Partying",
+      "Parenting",
+      "Comedy"
+    ]
+  },
+  {
+    "episode_id": "JRE-013",
+    "title": "Ron White",
+    "release_date": "2010-03-24",
+    "summary": "The Texas comedy legend brings adult jokes, whisky, and sharp wit for a colorful discussion.",
+    "series": "Season 1",
+    "length": "105 min",
+    "utterances": [
+      "Whisky, marriage, and redneck humor.",
+      "Breaking down fame, clubs, and touring.",
+      "Ron’s stories anchor every comic’s fantasy."
+    ],
+    "transcript": "Camaraderie and southern storytelling turn raw road-warrior tales into gold.",
+    "transcript_link": "https://www.joerogan.com/episodes/ron-white",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Texas",
+      "Drinking",
+      "Touring",
+      "Humor"
+    ]
+  },
+  {
+    "episode_id": "JRE-014",
+    "title": "Iliza Shlesinger",
+    "release_date": "2010-03-31",
+    "summary": "Multifaceted comic Iliza sparrs with Joe about improv, writing, and surviving and thriving in comedy.",
+    "series": "Season 1",
+    "length": "98 min",
+    "utterances": [
+      "Improv games as standup training.",
+      "Reality TV and comedy crossovers.",
+      "Iliza blends sharp insights and sharp jokes."
+    ],
+    "transcript": "Fresh takes on young comics, women’s voice in comedy, and building a following from scratch.",
+    "transcript_link": "https://www.joerogan.com/episodes/iliza-shlesinger",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Improv",
+      "Reality TV",
+      "Women",
+      "Standup"
+    ]
+  },
+  {
+    "episode_id": "JRE-015",
+    "title": "Kevin Smith",
+    "release_date": "2010-04-07",
+    "summary": "Director Kevin Smith and Joe share nerd-fandom, podcast stories, and behind-the-scenes movie talk.",
+    "series": "Season 1",
+    "length": "120 min",
+    "utterances": [
+      "Filmmaking insights crash into dirty jokes.",
+      "Smith’s lessons on podcasting and movies.",
+      "Comics, fans, and crossover culture."
+    ],
+    "transcript": "Pop culture and comic book lore meet with pure improv and Smith’s infectious positivity.",
+    "transcript_link": "https://www.joerogan.com/episodes/kevin-smith",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Film",
+      "Pop Culture",
+      "Comics",
+      "Fandom"
+    ]
+  },
+  {
+    "episode_id": "JRE-016",
+    "title": "Ali Wong",
+    "release_date": "2010-04-14",
+    "summary": "Ali and Joe tackle gender, raunch comedy, and immigrant family stories with speed and edge.",
+    "series": "Season 1",
+    "length": "101 min",
+    "utterances": [
+      "Raunchy bits and high energy.",
+      "Family roots and breaking stereotypes.",
+      "Asian-American experience explored with jokes."
+    ],
+    "transcript": "Mix of rapid-fire jokes and honest reflections on representation and success.",
+    "transcript_link": "https://www.joerogan.com/episodes/ali-wong",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Raunch",
+      "Family",
+      "Representation",
+      "Comedy"
+    ]
+  },
+  {
+    "episode_id": "JRE-017",
+    "title": "Russell Peters",
+    "release_date": "2010-04-21",
+    "summary": "Peters brings international twists to comedy: accents, cultures, and why laughter crosses borders.",
+    "series": "Season 1",
+    "length": "108 min",
+    "utterances": [
+      "World-travel stories and language mistakes.",
+      "Crowdsourcing world comedy.",
+      "What makes jokes universally funny?"
+    ],
+    "transcript": "Laughs and lessons: how global comedy builds bridges in a multicultural world.",
+    "transcript_link": "https://www.joerogan.com/episodes/russell-peters",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "International",
+      "Culture",
+      "Accents",
+      "Comedy"
+    ]
+  },
+  {
+    "episode_id": "JRE-018",
+    "title": "Sarah Silverman",
+    "release_date": "2010-04-28",
+    "summary": "Joe interviews Silverman on pushing comedic boundaries, audience reactions, and political comedy.",
+    "series": "Season 1",
+    "length": "115 min",
+    "utterances": [
+      "Political jokes get real.",
+      "Comedy and activism—do they mix?",
+      "Silverman’s style: bold, sharp, thoughtful."
+    ],
+    "transcript": "Frank discussion of crossing boundaries, identity, and surviving bombed performances.",
+    "transcript_link": "https://www.joerogan.com/episodes/sarah-silverman",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Political",
+      "Activism",
+      "Bombing",
+      "Comedy"
+    ]
+  },
+  {
+    "episode_id": "JRE-019",
+    "title": "John Mulaney",
+    "release_date": "2010-05-05",
+    "summary": "John and Joe get meta about joke writing, sitcom writers' rooms, and why John hates easy applause lines.",
+    "series": "Season 1",
+    "length": "95 min",
+    "utterances": [
+      "Joke purity and set construction.",
+      "Mulaney’s old-school inspirations.",
+      "Late-night, specials, and comedy theory."
+    ],
+    "transcript": "In-depth writing craft talk with more laughs per minute than a sitcom.",
+    "transcript_link": "https://www.joerogan.com/episodes/john-mulaney",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Jokes",
+      "Sitcoms",
+      "Writing",
+      "Critique"
+    ]
+  },
+  {
+    "episode_id": "JRE-020",
+    "title": "Patton Oswalt",
+    "release_date": "2010-05-12",
+    "summary": "Patton Oswalt goes deep with Joe on comedy evolution, nerd culture, and dealing with tragic news.",
+    "series": "Season 1",
+    "length": "104 min",
+    "utterances": [
+      "Nerd culture’s revenge in comedy.",
+      "Writing through personal loss.",
+      "Oswalt’s fans: some of the most loyal."
+    ],
+    "transcript": "Honest and emotional, with jokes and lessons on artistic survival.",
+    "transcript_link": "https://www.joerogan.com/episodes/patton-oswalt",
+    "audio_link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "topics": [
+      "Nerd",
+      "Tragedy",
+      "Evolution",
+      "Comedy"
+    ]
+  }
+]
