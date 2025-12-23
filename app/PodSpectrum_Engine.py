@@ -11,25 +11,32 @@ from sklearn.preprocessing import MinMaxScaler
 st.set_page_config(page_title="PodSpectrum Test_2", layout="wide")
 
 # --- SIDEBAR BRANDING BAR (NO HAMBURGER) ---
-with open(r"D:\UNIVERSITY OF GREENWICH\MSc Project\Final Dest\PodSpectrum\images\PodSpectrum LOGO.png", "rb") as imgfile:
-    img_bytes = imgfile.read()
-img_b64 = base64.b64encode(img_bytes).decode()
-img_src = f"data:image/png;base64,{img_b64}"
+# Relative path to the logo (from repo root)
+logo_path = "images/PodSpectrum LOGO.png"
 
-st.sidebar.markdown(
-    f"""
-    <div style="display: flex; align-items: center; gap: 0.32em; margin: .1em 0 .5em 0; min-height:39px;">
-        <img src="{img_src}" alt="Pod Spectrum Logo"
-             style="height:36px; margin:-2px .19em 0 0; vertical-align:middle; display:inline-block;">
-        <span style="font-size:1.42em; color:#fff; font-family:sans-serif; font-weight:700; letter-spacing:.01em;vertical-align:middle;display:inline-block;">
-            Pod Spectrum
-        </span>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+# Simpler and recommended way – Streamlit can display images directly
+st.sidebar.image(logo_path, width=200)
 
-FEEDBACK_CSV = r"D:\UNIVERSITY OF GREENWICH\MSc Project\Final Dest\PodSpectrum\data\podspectrum_feedback.csv"
+# Alternative base64 method (kept in case you want custom styling)
+# with open(logo_path, "rb") as imgfile:
+#     img_bytes = imgfile.read()
+# img_b64 = base64.b64encode(img_bytes).decode()
+# img_src = f"data:image/png;base64,{img_b64}"
+# st.sidebar.markdown(
+#     f"""
+#     <div style="display: flex; align-items: center; gap: 0.32em; margin: .1em 0 .5em 0; min-height:39px;">
+#         <img src="{img_src}" alt="Pod Spectrum Logo"
+#              style="height:36px; margin:-2px .19em 0 0; vertical-align:middle; display:inline-block;">
+#         <span style="font-size:1.42em; color:#fff; font-family:sans-serif; font-weight:700; letter-spacing:.01em;vertical-align:middle;display:inline-block;">
+#             Pod Spectrum
+#         </span>
+#     </div>
+#     """,
+#     unsafe_allow_html=True
+# )
+
+# Relative path to feedback CSV
+FEEDBACK_CSV = "data/podspectrum_feedback.csv"
 
 def traits_to_key(cur, att, soc, agr, moo):
     return f"{cur:.2f}_{att:.2f}_{soc:.2f}_{agr:.2f}_{moo:.2f}"
@@ -52,9 +59,10 @@ def save_feedback(traits_key, episode_id, like, dislike, not_int, rating, review
             return
         except PermissionError:
             if attempt < 2:
-                import time; time.sleep(0.5)
+                import time
+                time.sleep(0.5)
             else:
-                st.error(f"⚠️ Could not save feedback. Please close any programs using the file: {FEEDBACK_CSV}")
+                st.error(f"⚠️ Could not save feedback. Please close any programs using the file.")
                 return
         except Exception as e:
             st.error(f"⚠️ Error saving feedback: {str(e)}")
@@ -66,8 +74,12 @@ def get_feedback(traits_key, episode_id):
     df = pd.read_csv(FEEDBACK_CSV)
     return df[(df['traits_key'] == traits_key) & (df['episode_id'] == episode_id)]
 
-if "onboard_step" not in st.session_state: st.session_state["onboard_step"] = 0
-if "tour_dismissed" not in st.session_state: st.session_state["tour_dismissed"] = False
+# Session state initialization (unchanged)
+if "onboard_step" not in st.session_state:
+    st.session_state["onboard_step"] = 0
+if "tour_dismissed" not in st.session_state:
+    st.session_state["tour_dismissed"] = False
+
 for key, val in [
     ("playlist", []), ("user_feedback", {}), ("rec_ready", False), ("recommendations", []), ("podcast_details", {}),
     ("recommendation_counts", {}), ("series_count", {}), ("already_seen_series", set()), ("already_seen_episodes", set()),
@@ -84,10 +96,14 @@ attention = st.sidebar.slider("Attention to Detail", 0.0, 1.0, 0.5, 0.01)
 sociability = st.sidebar.slider("Sociability", 0.0, 1.0, 0.5, 0.01)
 agreeableness = st.sidebar.slider("Agreeableness", 0.0, 1.0, 0.5, 0.01)
 moodiness = st.sidebar.slider("Moodiness", 0.0, 1.0, 0.3, 0.01)
+
 traits_key = traits_to_key(curiosity, attention, sociability, agreeableness, moodiness)
 
-df = pd.read_pickle(r"D:\UNIVERSITY OF GREENWICH\MSc Project\Final Dest\PodSpectrum\data\podcast_episodes_with_topics_embeddings.pkl")
-with open(r"D:\UNIVERSITY OF GREENWICH\MSc Project\Final Dest\PodSpectrum\data\metadata.json", "r", encoding="utf-8") as metafile:
+# Fixed: Relative path to pickle file
+df = pd.read_pickle("data/podcast_episodes_with_topics_embeddings.pkl")
+
+# Fixed: Relative path to metadata JSON
+with open("data/metadata.json", "r", encoding="utf-8") as metafile:
     podcast_details_all = json.load(metafile)
 
 topic_to_genre = {
@@ -394,3 +410,4 @@ if st.session_state.get("rec_ready", False):
                 )
     else:
         st.warning("No recommendations found with your current settings. Try changing traits or genres!")
+
