@@ -25,6 +25,5 @@ This repository contains the code and core data for the PodSpectrum personality-
 This will open the PodSpectrum interface in your browser.
 
 <img width="940" height="427" alt="image" src="https://github.com/user-attachments/assets/19f51967-dd61-4ecf-8dee-18baac54ae51" />
-![App Screenshot](images/app_screenshot.png)
 
 
